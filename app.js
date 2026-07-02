@@ -2945,6 +2945,39 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
  
  image: "https://github.com/Aadhi6374/image/blob/main/homee%20plant%20disco.png?raw=true",
  amazon: "https://www.amazon.com/SCANDINORDICA-Disco-Ball-Planter-Hanging/dp/B08Y1YVL7R?crid=O1X8U9PLFV01&dib=eyJ2IjoiMSJ9.Q0f7DVzqaHGbEqEmHcExA6kQXOmZGq8CGmtgiiCWw2mlbJtUWRU7OyUwBDZLxx24knfihdJVnJKQgvjDthq7eQRlGuGySLsa6wc7NDC4YbCDTmK1xmcvGVggTeYanwmL2-EE5HnvPWSK4ADS7F6efegDccxoi-hur0LwJOqibgkZkCExUssj5M_ZHs7wEkhBarsem2oc7FrOv6ehjg2NX7UO_31Dwmjc7kr7DhMsHhELJ8JaxfAbgukVU81xsk-DkvEwGhLZe9e08rIRNiJTuRKGXX6fiAsZ6wladiUp_II.acRijHDRSVUDzmRbfRcYrbpaBtGcvuBm79TqZck9AbU&dib_tag=se&keywords=SCANDINORDICA%2BDisco%2BBall%2BPlanter%2B%E2%80%93%2BValue%2BPackage%3A%2BMirror%2BDisco%2BPlanter%2Bwith%2BChain%2C%2BMacrame%2BHanger%2Band%2BAcrylic%2BStand%2Bfor%2BDesk%2C%2BIncludes%2BSelf%2BWatering%2BInsert%2C%2BDisco%2BBall%2BDecor%2B%7C%2B6%2Binch%2BSilver&nsdOptOutParam=true&qid=1782662947&sprefix=scandinordica%2Bdisco%2Bball%2Bplanter%2Bvalue%2Bpackage%2Bmirror%2Bdisco%2Bplanter%2Bwith%2Bchain%2C%2Bmacrame%2Bhanger%2Band%2Bacrylic%2Bstand%2Bfor%2Bdesk%2C%2Bincludes%2Bself%2Bwatering%2Binsert%2C%2Bdisco%2Bball%2Bdecor%2B6%2Binch%2Bsilver%2Caps%2C533&sr=8-6&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=e077bdcceaa754da3690cbfa79b94770&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 92,
+  "name": "FANTESTICRYAN Small Birds Statues Gold Home Decor Modern Style Figurine Decorative Ornaments",
+  "price": 25,
+  "rating": 4.7,
+  "reviews": 9958,
+  "description": "The FANTESTICRYAN Small Birds Statues are elegant modern decorative figurines crafted from high-quality ceramic with a luxurious gold-coated finish. Designed with a minimalist Scandinavian-inspired style, these charming bird ornaments add warmth and sophistication to any living room, bedroom, office, bathroom, kitchen, bookshelf, TV stand, mantel, coffee table, or cabinet. Their polished reflective surface creates a beautiful decorative accent while complementing modern, contemporary, boho, farmhouse, and luxury home interiors. Perfect as thoughtful gifts for birthdays, weddings, anniversaries, housewarmings, Mother's Day, Christmas, Valentine's Day, and other special occasions, these adorable golden birds symbolize peace, love, happiness, and good fortune.",
+  "features": [
+    "Modern minimalist gold bird figurine set",
+    "Premium ceramic construction with gold coating",
+    "Shiny reflective metallic finish",
+    "Elegant Scandinavian-inspired home decor",
+    "Perfect for living room, bedroom and office",
+    "Beautiful shelf and tabletop decoration",
+    "Ideal for bookshelves, TV stands and mantels",
+    "Adds warmth and luxury to any interior",
+    "Suitable for coffee tables and cabinets",
+    "Lightweight yet durable ceramic design",
+    "Smooth polished surface with handcrafted appearance",
+    "Complements modern, boho and farmhouse decor",
+    "Gift-ready packaging for special occasions",
+    "Symbolizes peace, love and happiness",
+    "Available in Medium, Large and XL sizes",
+    "Perfect decorative accent for home and office styling"
+  ],
+  "materials": [
+    "Premium Ceramic",
+    "Gold Metallic Coating",
+    "Glossy Protective Finish"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/birdpaperweight.png?raw=true",
+ amazon: "https://www.amazon.com/Fantastic-Ryan-Decorative-Originality-Furnishing/dp/B07SPKC554?crid=2U9RF5IEFIGJ1&dib=eyJ2IjoiMSJ9.XRo1djV1zu-23Gq_8Ukwcap6AgJ2xNBidHj399hme26aokWRDUH01vyC6oaLHmoskx6hq51szxyli9O2-ULkCCz4ELZAXTzuDRUgdflLmA96J5CeyDBV7uE1dFF2vcw0qpKpiPkotz4aayU0NNf4diaJu9eVy4-Xc6Z_4sCf8sgdB1fQUegZJ9KHdGvSNEQfl_3TuAFZxoyjk-hta8V-U6eWb9ap_LPOLyqRG2llYFR_GQn4gcXHBbq3PsajVrkhXSZ6pH18lgf8LpshneKsQLn1wnVYkmVCoe7k-ywaP_4.mV0L61EIw5WE9wWTFZGPbNYeY_bmwGqIojGmLUKP-6U&dib_tag=se&keywords=top%2Bhome%2Bdecor%2B2026&qid=1782999708&sprefix=top%2Bhome%2Bdecor%2B2026%2Caps%2C400&sr=8-7&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=095a0ac3e1c74f6c718184d619eb5200&language=en_US&ref_=as_li_ss_tl"
 }
 
 
