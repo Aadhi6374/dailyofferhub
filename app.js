@@ -908,38 +908,6 @@ amazon: "https://www.amazon.com/Akimart-Digital-Auto-Rotate-Anywhere-Android/dp/
 },
 
 {
-id: 36,
-name: "32GB FRAMEO 10.1 Inch Smart WiFi Digital Photo Frame 1280x800 IPS LCD Touch Screen, Auto-Rotate Portrait and Landscape, Built in 32GB Memory, Share Moments Instantly via Frameo App from Anywhere",
-price: 59,
-rating: 4.5,
-reviews: 10258,
-description: "A beautiful smart digital photo frame that keeps families connected through memories. Instantly send photos and short videos from anywhere using the Frameo app. Perfect for Mother’s Day, birthdays, weddings, and long-distance loved ones. A heartfelt gift that brings smiles every single day.",
-features: [
-"10.1 inch IPS HD touch screen display",
-"Instantly share photos and videos via Frameo app",
-"32GB built in memory stores thousands of memories",
-"Auto rotate supports portrait and landscape mode",
-"WiFi connected for sharing from anywhere",
-"Easy setup perfect for all ages",
-"Display weather clock and custom captions",
-"Perfect gift for moms family and loved ones"
-],
-
-materials: [
-"Premium IPS LCD touch screen display",
-"Durable black modern frame design",
-"High resolution 1280 x 800 display",
-"Built with user friendly touch controls",
-"Compatible with iOS and Android devices",
-"Secure private photo sharing technology",
-"Strong stable detachable frame stand",
-"Designed for long lasting everyday use"
-],
-image: "https://github.com/Aadhi6374/image/blob/main/Digital%20Photo%20frame.png?raw=true",
-amazon: "https://www.amazon.com/Akimart-Digital-Auto-Rotate-Anywhere-Android/dp/B083SH697H?crid=3IOXQ4NFWCB03&dib=eyJ2IjoiMSJ9.RwPuA70uL1ZQJ-nFYqyoDysekWLiQJ8h1HfV1ym-9W_rkiD_yY0cnHD-k959bL-bwp8Ya5m3CH3tD7FhDwNZycGZJwbiWdh1u8idZxNMXOA9OsC-sd9BeNVJhq2gmYJbjfVxlaSUTedtZH55I1xEulCtKDEzc_D15eaVb76IDRy_uTz_w7jGTvzFskXb8J1u1Yp0Rq2gv7_J6e2T0X5QGT3W4pTx0ez7ExXy3gFMio2mhe_qQRvWMa3TTCAfEOZ-3B7VjM0x-fp7DEl3ITg4xmowDiwB6VZk4Kf0fj6rEFs.N20t2aSEmOKWNUQ6RbzYn0EBFsrkMHd4eamSJf1-fGw&dib_tag=se&keywords=Personalized%2Bphoto%2Bgifts&qid=1778339692&sprefix=personalized%2Bphoto%2Bgifts%2Caps%2C500&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=edd6e4f33b7e2d608e6be24ceed08f3c&language=en_US&ref_=as_li_ss_tl"
-},
-
-{
 id: 37,
 name: "Glamnetic Press On Nails - MaDamn | French Tip UV Finish Short Pointed Almond Fake Nails, Salon Quality Semi-Transparent Nails in 12 Sizes - 24 Nail Kit with Glue",
 price: 59,
