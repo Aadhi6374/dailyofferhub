@@ -2946,7 +2946,35 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/birdpaperweight.png?raw=true",
  amazon: "https://www.amazon.com/Fantastic-Ryan-Decorative-Originality-Furnishing/dp/B07SPKC554?crid=2U9RF5IEFIGJ1&dib=eyJ2IjoiMSJ9.XRo1djV1zu-23Gq_8Ukwcap6AgJ2xNBidHj399hme26aokWRDUH01vyC6oaLHmoskx6hq51szxyli9O2-ULkCCz4ELZAXTzuDRUgdflLmA96J5CeyDBV7uE1dFF2vcw0qpKpiPkotz4aayU0NNf4diaJu9eVy4-Xc6Z_4sCf8sgdB1fQUegZJ9KHdGvSNEQfl_3TuAFZxoyjk-hta8V-U6eWb9ap_LPOLyqRG2llYFR_GQn4gcXHBbq3PsajVrkhXSZ6pH18lgf8LpshneKsQLn1wnVYkmVCoe7k-ywaP_4.mV0L61EIw5WE9wWTFZGPbNYeY_bmwGqIojGmLUKP-6U&dib_tag=se&keywords=top%2Bhome%2Bdecor%2B2026&qid=1782999708&sprefix=top%2Bhome%2Bdecor%2B2026%2Caps%2C400&sr=8-7&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=095a0ac3e1c74f6c718184d619eb5200&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 93,
+  "name": "Bedsure GentleSoft White Throw Blanket for Couch - Cozy Fleece Blanket, Off White, 50x60 Inches",
+  "price": 20,
+  "rating": 4.6,
+  "reviews": 24650,
+  "description": "The Bedsure GentleSoft White Throw Blanket is an ultra-soft flannel fleece blanket crafted from premium microfiber polyester for exceptional comfort throughout every season. Designed with a modern striped texture and elegant off-white color, this lightweight throw enhances the look of living rooms, bedrooms, dorm rooms, offices, and cozy reading corners while providing warmth without feeling heavy. Perfect for relaxing on the couch, adding an extra layer to your bed, watching movies, traveling, or decorating your home with a clean and timeless aesthetic. Its durable reinforced stitching, fade-resistant fabric, and machine-washable construction ensure long-lasting softness and beauty. This cozy blanket also makes a thoughtful gift for birthdays, graduations, teacher appreciation, Mother's Day, anniversaries, housewarming celebrations, Christmas, and other special occasions.",
+  "features": [
+    "Ultra-soft premium microfiber flannel fleece",
+    "Lightweight yet warm for year-round comfort",
+    "Elegant modern striped textured design",
+    "Perfect for couch, sofa, bed and dorm room",
+    "Ideal for living room, bedroom and office decor",
+    "Machine washable and fade resistant",
+    "Reinforced stitching for enhanced durability",
+    "Suitable for travel, reading and movie nights",
+    "Gift-ready for birthdays, graduations and holidays",
+    "Comfortable throw blanket for everyday use"
+  ],
+  "materials": [
+    "Premium Microfiber Polyester",
+    "Flannel Fleece Fabric",
+    "Reinforced Stitching"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/bedsheet%20in%20home.png?raw=true",
+ amazon: "https://www.amazon.com/Bedsure-White-Fleece-Throw-Blanket/dp/B0BPLB81LX?crid=S29RPDCWXT0H&dib=eyJ2IjoiMSJ9.Ww7_9RyW0Y-sxgeK47NQj4aMFGOcYibXFcSTKHODMN1Px6roUwpAZJ-H0ur0nq6x-ByIQH85fRGO7DgLrZfLLw2Nsq2ZwjzRG2dAlRJQITkY7wjj92Khm5SCcCPekfKNpWGik2zTCOof4sH2DEavBgn0U7AICtmVdOb89C8FEAnd8hXOYabo9yi6UBpMrIzL_Zm_DVuukM0SML3WIHk41r8_tUTnBjJdOnr5c4hLSkKE0Jlr1xI3bVpEdid0hsPQyDA53DeX5VOOVEpoK3hDpVIf2Ikq0D0vulhSEJY2eV0._LIyQFaOMY8AG9bBmIuNqSoTmlzVdHwyra14alGm7tg&dib_tag=se&keywords=top%2Bhome%2Bdecor&qid=1783089015&sprefix=top%2Bhome%2Bdecor%2B%2Caps%2C572&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=c913bc431f6ace8fea125605a22ade39&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
