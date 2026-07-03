@@ -2973,7 +2973,35 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/bedsheet%20in%20home.png?raw=true",
  amazon: "https://www.amazon.com/Bedsure-White-Fleece-Throw-Blanket/dp/B0BPLB81LX?crid=S29RPDCWXT0H&dib=eyJ2IjoiMSJ9.Ww7_9RyW0Y-sxgeK47NQj4aMFGOcYibXFcSTKHODMN1Px6roUwpAZJ-H0ur0nq6x-ByIQH85fRGO7DgLrZfLLw2Nsq2ZwjzRG2dAlRJQITkY7wjj92Khm5SCcCPekfKNpWGik2zTCOof4sH2DEavBgn0U7AICtmVdOb89C8FEAnd8hXOYabo9yi6UBpMrIzL_Zm_DVuukM0SML3WIHk41r8_tUTnBjJdOnr5c4hLSkKE0Jlr1xI3bVpEdid0hsPQyDA53DeX5VOOVEpoK3hDpVIf2Ikq0D0vulhSEJY2eV0._LIyQFaOMY8AG9bBmIuNqSoTmlzVdHwyra14alGm7tg&dib_tag=se&keywords=top%2Bhome%2Bdecor&qid=1783089015&sprefix=top%2Bhome%2Bdecor%2B%2Caps%2C572&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=c913bc431f6ace8fea125605a22ade39&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 94,
+  "name": "Lazebox Coasters Set of 8 for Drinks - 4 Inch Cotton Round Coasters with Metal Holder, Coffee",
+  "price": 10,
+  "rating": 4.7,
+  "reviews": 1615,
+  "description": "The Lazebox Coasters Set of 8 is designed to protect your furniture while adding a stylish touch to your home. Made from premium cotton and linen, these highly absorbent round coasters quickly soak up condensation and spills, keeping tabletops dry and free from water rings. Measuring 4 inches in diameter, they fit most coffee mugs, tea cups, wine glasses, tumblers, and drinkware. Their soft, non-slip construction prevents scratches while providing heat insulation for both hot and cold beverages. Featuring a modern coffee-colored design, these coasters complement living rooms, dining tables, kitchens, coffee tables, bars, offices, and home decor. The included metal holder keeps the coasters neatly organized, while the washable material allows for easy cleaning and long-lasting everyday use.",
+  "features": [
+    "Set of 8 round drink coasters",
+    "4-inch size fits most cups and glasses",
+    "Premium cotton and linen construction",
+    "Highly absorbent to prevent water rings",
+    "Protects tabletops from heat and moisture",
+    "Soft non-slip surface prevents scratches",
+    "Modern coffee color complements home decor",
+    "Includes metal holder for organized storage",
+    "Easy to clean with hand washing",
+    "Ideal for coffee tables, kitchens, bars and offices"
+  ],
+  "materials": [
+    "Cotton",
+    "Linen",
+    "Metal Holder"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/tea%20holder.png?raw=true",
+ amazon: "https://www.amazon.com/Lazebox-Coasters-Absorbent-Tabletop-Protection/dp/B0CG9NWJYZ?crid=S29RPDCWXT0H&dib=eyJ2IjoiMSJ9.Ww7_9RyW0Y-sxgeK47NQj4aMFGOcYibXFcSTKHODMN1Px6roUwpAZJ-H0ur0nq6x-ByIQH85fRGO7DgLrZfLL-rOb9TvVUn9rNqR9wVD8lGcPLzJMwND8SekF3PJHOR0oBPTf9_B8QsBBWtSfaSbKFk1qEQ_jWoHsQ7lhvmudWIPvyUWKNk6xhMh41O0nwlg_Zm_DVuukM0SML3WIHk41r8_tUTnBjJdOnr5c4hLSkIW--4GMP8QfsJ9GB2_Ni4H5tHcHVb4QRrBkuRuhqguOETev5tXLCMnQmmNXuM9u9c.fuG9o-_JutCilsGkCtnTXJDFrJJLeAqWoZ4BXENvYHI&dib_tag=se&keywords=top%2Bhome%2Bdecor&qid=1783093786&sprefix=top%2Bhome%2Bdecor%2B%2Caps%2C572&sr=8-32&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=481964e44832ef0a65914c9b65036d1f&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
