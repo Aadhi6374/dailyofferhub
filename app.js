@@ -3000,6 +3000,32 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/tea%20holder.png?raw=true",
  amazon: "https://www.amazon.com/Lazebox-Coasters-Absorbent-Tabletop-Protection/dp/B0CG9NWJYZ?crid=S29RPDCWXT0H&dib=eyJ2IjoiMSJ9.Ww7_9RyW0Y-sxgeK47NQj4aMFGOcYibXFcSTKHODMN1Px6roUwpAZJ-H0ur0nq6x-ByIQH85fRGO7DgLrZfLL-rOb9TvVUn9rNqR9wVD8lGcPLzJMwND8SekF3PJHOR0oBPTf9_B8QsBBWtSfaSbKFk1qEQ_jWoHsQ7lhvmudWIPvyUWKNk6xhMh41O0nwlg_Zm_DVuukM0SML3WIHk41r8_tUTnBjJdOnr5c4hLSkIW--4GMP8QfsJ9GB2_Ni4H5tHcHVb4QRrBkuRuhqguOETev5tXLCMnQmmNXuM9u9c.fuG9o-_JutCilsGkCtnTXJDFrJJLeAqWoZ4BXENvYHI&dib_tag=se&keywords=top%2Bhome%2Bdecor&qid=1783093786&sprefix=top%2Bhome%2Bdecor%2B%2Caps%2C572&sr=8-32&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=481964e44832ef0a65914c9b65036d1f&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 95,
+  "name": "Hananona 6 Pcs Artificial Geranium Flowers for Outdoors - UV Resistant Silk Red Faux Garden Plants",
+  "price": 20,
+  "rating": 4.5,
+  "reviews": 2104,
+  "description": "The Hananona 6 Pcs Artificial Geranium Flowers bring vibrant color and lasting beauty to both indoor and outdoor spaces without the need for watering or maintenance. Crafted with premium silk flower heads and leaves combined with durable UV-resistant plastic stems, these realistic faux geraniums maintain their rich red color even in sunlight. Each bundle features fuller, upgraded flower heads for a lush and natural appearance, making them ideal for porches, patios, gardens, balconies, window boxes, table centerpieces, weddings, parties, offices, kitchens, and seasonal decorations. Designed to withstand outdoor conditions while offering year-round beauty, these artificial flowers are a perfect low-maintenance decorative solution for any home or event.",
+  "features": [
+    "Includes 6 bundles of artificial geranium flowers",
+    "Realistic red geranium blooms with vibrant colors",
+    "UV-resistant for long-lasting outdoor use",
+    "Premium silk flowers with durable plastic stems",
+    "No watering or maintenance required",
+    "Full-sized upgraded flower heads for a natural look",
+    "Suitable for indoor and outdoor decoration",
+    "Ideal for gardens, porches, balconies, and patios",
+    "Perfect for weddings, parties, festivals, and home decor",
+    "Weather-resistant design for year-round display"
+  ],
+  "materials": [
+    "Silk",
+    "Plastic"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/flowerhom%20decor.png?raw=true",
+ amazon: "https://www.amazon.com/dp/B0DKVFGYPX?_encoding=UTF8&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=9f15fedbdb73b950f3a56d4d03d9cf19&language=en_US&ref_=as_li_ss_tl"
 }
 
 
