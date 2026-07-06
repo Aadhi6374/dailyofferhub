@@ -3026,7 +3026,34 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/flowerhom%20decor.png?raw=true",
  amazon: "https://www.amazon.com/dp/B0DKVFGYPX?_encoding=UTF8&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=9f15fedbdb73b950f3a56d4d03d9cf19&language=en_US&ref_=as_li_ss_tl"
+},
+{
+  "id": 96,
+  "name": "ooit Vintage Vase Set of 3 Ceramic Chinoiserie Decorative Flower Vases - Green & Beige",
+  "price": 35,
+  "rating": 4.7,
+  "reviews": 401,
+  "description": "The ooit Vintage Vase Set of 3 combines timeless elegance with rustic farmhouse charm, making it a beautiful addition to any home. Crafted from premium high-temperature fired ceramic (terra cotta), these decorative vases feature unique vintage-inspired shapes and green-and-beige chinoiserie designs that complement modern farmhouse, boho, rustic, and traditional interiors. Each vase includes a waterproof interior coating, allowing them to hold fresh flowers, dried botanicals, or artificial arrangements with ease. Whether displayed together as a centerpiece or separately throughout your home, these ceramic vases enhance coffee tables, bookshelves, mantels, entryways, kitchens, bedrooms, offices, and living rooms with sophisticated vintage style. They also make an excellent gift for housewarmings, weddings, birthdays, Christmas, anniversaries, and other special occasions.",
+  "features": [
+    "Includes a coordinated set of 3 vintage ceramic flower vases",
+    "Premium high-temperature fired terra cotta ceramic construction",
+    "Elegant green and beige vintage chinoiserie design",
+    "Waterproof interior coating for fresh flower arrangements",
+    "Suitable for fresh flowers, dried flowers, artificial plants, and greenery",
+    "Perfect for farmhouse, boho, rustic, vintage, and modern home decor",
+    "Ideal for coffee tables, bookshelves, mantels, kitchens, offices, and entryways",
+    "Can be displayed individually or together as a decorative centerpiece",
+    "Durable, corrosion-resistant ceramic with long-lasting finish",
+    "Excellent gift for housewarming, weddings, birthdays, Christmas, and anniversaries"
+  ],
+  "materials": [
+    "High-Temperature Fired Terra Cotta Ceramic",
+    "Waterproof Interior Coating"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/small%20decor.png?raw=true",
+ amazon: "https://www.amazon.com/Vintage-Chinoiserie-Decorative-Farmhouse-Bookshelf/dp/B0FCFHBG26?crid=272RKLMANBJZF&dib=eyJ2IjoiMSJ9.dFKqCfScCCbLGBwqxxcGA-95IlxbNBO9jSV0MoOq14zlX15PK0AYbu0_j870MPbU54--_xueE8cU2VqGNeuAYinYYOWNmCjg109UuSDfQe0RWpG9WEe_oE9Qc6n6GD_iTSY4i-TPBJU5hTedSA1Y6lq5FkEkvAyfhujW7-Xx7MUqfgJ1tZuczsSkGDRea8qc4zwvd_FFM0wUqsJFHZ6hhbhtdbEfpJJVy5IO8I6C7668eR3O99cgbWukXxTRwpYnTqX7S6awolRYHYB5EX0QoPUNj0rclYvDnB-_XJVLeZI.oMUv6_x2iyxZyP3jUVljlsTSGHFmyW-NN0iol8kdVGQ&dib_tag=se&keywords=top%2Bhome%2Bdecor%2Bfinds%2B2026&qid=1783330068&sprefix=top%2Bhome%2Bdecor%2Caps%2C460&sr=8-22&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=a08835e86e41a4ae9ea97bd3a1687cef&language=en_US&ref_=as_li_ss_tl"
 }
+
 
 
 
