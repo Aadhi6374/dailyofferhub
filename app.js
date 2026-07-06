@@ -3090,9 +3090,42 @@ function formatReviews(num){
 return num.toLocaleString() + "+"
 }
 
+// ================= AUTO CATEGORY DETECTOR =================
+function getCategory(product) {
+  const text = (product.name + " " + product.description).toLowerCase();
+
+  const categories = [
+    { name: "Electronics", keywords: ["speaker","echo","alexa","projector","fire tv","headphone","power bank","led strip","digital photo frame","tv","bluetooth","charging"] },
+    { name: "Kitchen & Cooking", keywords: ["air fryer","cooktop","egg cooker","slow cooker","rice cooker","chopper","mandoline","kitchen","cookbook","buffet server"] },
+    { name: "Beauty & Skincare", keywords: ["serum","sunscreen","toner","cleanser","moisturizer","blush","primer","makeup","nail","eye mask","face wash","skin"] },
+    { name: "Bath & Body", keywords: ["body wash","shower oil","shampoo","hand wash","soap"] },
+    { name: "Home Decor", keywords: ["vase","wind chime","statue","sculpture","plant stand","planter","candle","decor","frame","pillow","rug","fairy","disco ball"] },
+    { name: "Storage & Organization", keywords: ["organizer","storage","shelf","drawer","hamper","basket","rack","cooler","closet"] },
+    { name: "Bags & Travel", keywords: ["backpack","lunch bag","cooler bag","tote","water bottle","hydro flask","hydrojug"] },
+    { name: "Fashion & Jewelry", keywords: ["ring","sandals","shirt","clothing","jewelry","press on nails"] },
+    { name: "Cleaning & Laundry", keywords: ["detergent","stain","fabric softener","laundry","clean"] },
+    { name: "Books", keywords: ["cookbook","recipes"] },
+    { name: "Baby & Kids", keywords: ["splash pad","kids","toddler","baby"] },
+    { name: "Gifts & Gadgets", keywords: ["whiskey","smoker","docking station","gift"] }
+  ];
+
+  for (const cat of categories) {
+    if (cat.keywords.some(k => text.includes(k))) return cat.name;
+  }
+  return "Other";
+}
+
+function filterByCategory(cat){
+  window.currentCategory = cat;
+  renderProducts();
+  window.scrollTo({ top: document.getElementById("product-grid").offsetTop - 20, behavior: "smooth" });
+}
+
 // ================= RENDER =================
 
 function renderProducts(){
+
+if (typeof window.currentCategory === "undefined") window.currentCategory = "All";
 
 const grid = document.getElementById("product-grid")
 const params = new URLSearchParams(window.location.search)
@@ -3293,41 +3326,63 @@ ${(product.ingredients || product.materials).map(i => `<li>${i}</li>`).join("")}
 `
 }
 
-// ================= PRODUCT GRID =================
+// ================= PRODUCT GRID (WITH CATEGORY FILTER) =================
 
 else{
 
-grid.className = "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
+const allCategories = ["All", ...new Set(products.map(p => getCategory(p)))];
+const activeCategory = window.currentCategory || "All";
 
-products.forEach(product => {
+const filteredProducts = activeCategory === "All"
+  ? products
+  : products.filter(p => getCategory(p) === activeCategory);
 
-html += `
-<div class="bg-white p-4 rounded shadow">
+let filterHtml = `<div class="flex flex-wrap gap-2 justify-center mb-6">`;
+allCategories.forEach(cat => {
+  const isActive = cat === activeCategory;
+  filterHtml += `
+    <button
+      onclick="filterByCategory('${cat}')"
+      class="px-4 py-2 rounded-full text-sm font-semibold border transition
+      ${isActive ? "bg-blue-600 text-white border-blue-600" : "bg-white text-gray-700 border-gray-300 hover:bg-gray-100"}">
+      ${cat}
+    </button>`;
+});
+filterHtml += `</div>`;
 
-<div class="image-container">
-<img src="${product.image}"
-onmousemove="zoomImage(event,this)"
-onmouseleave="hideZoom(this)">
-</div>
+grid.className = "";
 
-<h3 class="font-bold mt-2">${product.name}</h3>
+let cardsHtml = `<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">`;
 
-<div class="text-yellow-500 text-xs mt-1">
-${"★".repeat(Math.round(product.rating))}
-${"☆".repeat(5 - Math.round(product.rating))}
-</div>
+filteredProducts.forEach(product => {
+  cardsHtml += `
+    <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-3 flex flex-col">
 
-<p class="text-sm text-gray-600">${product.description}</p>
+      <div class="image-container rounded-lg overflow-hidden mb-2">
+        <img src="${product.image}"
+          onmousemove="zoomImage(event,this)"
+          onmouseleave="hideZoom(this)">
+      </div>
 
-<a href="?product=${product.id}"
-class="block mt-2 bg-yellow-400 text-center p-2 rounded font-bold">
-View Product
-</a>
+      <h3 class="font-semibold text-sm line-clamp-2 mb-1">${product.name}</h3>
 
-</div>
-`
+      <div class="text-yellow-500 text-xs mb-1">
+        ${"★".repeat(Math.round(product.rating))}${"☆".repeat(5 - Math.round(product.rating))}
+        <span class="text-gray-500 ml-1">(${formatReviews(product.reviews)})</span>
+      </div>
 
-})
+      <a href="?product=${product.id}"
+        class="mt-auto block bg-yellow-400 hover:bg-yellow-500 text-center py-2 rounded font-bold text-sm">
+        View Product
+      </a>
+
+    </div>`;
+});
+
+cardsHtml += `</div>`;
+
+grid.innerHTML = filterHtml + cardsHtml;
+return;
 
 }
 
@@ -3371,4 +3426,3 @@ img.style.transform = "scale(1)"
 img.style.transformOrigin = "center"
 
 }
-
