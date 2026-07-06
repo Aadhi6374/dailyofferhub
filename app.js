@@ -4,6 +4,7 @@ const products = [
 
 {
 id: 1,
+category: "Electronics",
 name: "Amazon Echo Dot (Latest Model) Smart Speaker with Alexa | Rich Sound | Compact Design for Home, Bedroom & Office | Glacier White",
 amazon: "https://www.amazon.com/dp/B09B94RL1R?tag=aadhithyan637-20",
 price: 74.00,
@@ -27,6 +28,7 @@ image: "https://github.com/Aadhi6374/image/blob/main/amazon%20echot%20dot.png?ra
 
 {
 id: 2,
+category: "Electronics",
 name: "Pocket Cinema Anywhere",
 price: 59,
 rating: 4.3,
@@ -49,6 +51,7 @@ amazon: "https://www.amazon.com/dp/B099N4NSSD?tag=aadhithyan637-20"
 
 {
 id: 3,
+category: "Kitchen & Cooking",
 name: "Chefman 4QT Air Fryer",
 price: 59,
 rating: 4.6,
@@ -71,6 +74,7 @@ amazon: "https://www.amazon.com/dp/B0CNY1F31S?tag=aadhithyan637-20"
 
 {
 id: 4,
+category: "Electronics",
 name: "Fire TV Stick Upgrade",
 price: 59,
 rating: 4.5,
@@ -93,6 +97,7 @@ amazon: "https://www.amazon.com/dp/B0B8C3WDPH?tag=aadhithyan637-20"
 
 {
 id: 5,
+category: "Electronics",
 name: "Apple Wired Headphones (USB-C)",
 price: 59,
 rating: 4.6,
@@ -115,6 +120,7 @@ amazon: "https://www.amazon.com/dp/B0DCH8VDXF?tag=aadhithyan637-20"
 
 {
 id: 6,
+category: "Kitchen & Cooking",
 name: "Double Burner Induction Cooktop",
 price: 59,
 rating: 4.3,
@@ -135,6 +141,7 @@ amazon: "https://www.amazon.com/dp/B09TRGGZZZ?tag=aadhithyan637-20"
 
 {
 id: 7,
+category: "Electronics",
 name: "87W Fast Charging Power Bank",
 price: 59,
 rating: 4.6,
@@ -148,6 +155,7 @@ amazon: "https://www.amazon.com/dp/B0CXDXP8VR?tag=aadhithyan637-20"
 
 {
 id: 8,
+category: "Electronics",
 name: "Perfect Sleep Starts Here",
 price: 59,
 rating: 4.5,
@@ -161,6 +169,7 @@ amazon: "https://www.amazon.com/dp/B0C9HBKQ5D?tag=aadhithyan637-20"
 
 {
 id: 9,
+category: "Electronics",
 name: "MUSICOZY Bluetooth Sleep Mask",
 price: 59,
 rating: 4.2,
@@ -181,6 +190,7 @@ amazon: "https://www.amazon.com/dp/B0D1Q89VM4?tag=aadhithyan637-20"
 
 {
 id: 10,
+category: "Electronics",
 name: "JBL Go 4 Portable Bluetooth Speaker 🔊 Waterproof Mini Speaker with Big Bass | Travel Must-Have Gadget (Pink)",
 price: 59,
 rating: 4.8,
@@ -200,6 +210,7 @@ amazon: "https://www.amazon.com/dp/B0D1JG8CRC?tag=aadhithyan637-20"
 },
  {
 id: 11,
+category: "Electronics",
 name: "“Unlimited Entertainment Starts Now 🚀”",
 price: 59,
 rating: 4.7,
@@ -224,6 +235,7 @@ amazon: "https://www.amazon.com/dp/B0F7Z4QZTT?tag=aadhithyan637-20"
 
 {
 id: 12,
+category: "Electronics",
 name: "“iPhone Users Only , Never Lose Your Wallet Again”",
 price: 59,
 rating: 4.5,
@@ -248,6 +260,7 @@ amazon: "https://www.amazon.com/dp/B0F1TJRS7F?tag=aadhithyan637-20"
 
 {
 id: 13,
+category: "Bags & Travel",
 name: "“Stop Buying Cheap Bottles 😳💧 Owala FreeSip 24oz – Sip or Chug, Stays Cold ALL Day!”",
 price: 59,
 rating: 4.7,
@@ -272,6 +285,7 @@ amazon: "https://www.amazon.com/dp/B0C59C39PV?tag=aadhithyan637-20"
 
 {
 id: 14,
+category: "Electronics",
 name: "Mini Inkjet Coding Machine for Packaging | Portable QR & Logo Printer",
 price: 59,
 rating: 4.5,
@@ -296,6 +310,7 @@ amazon: "https://www.amazon.com/dp/B0CJ7F22M9?tag=aadhithyan637-20"
 
 {
 id: 15,
+category: "Beauty & Skincare",
 name: "Aquasonic Black Series Electric Toothbrush (ADA Accepted)",
 price: 59,
 rating: 4.6,
@@ -320,6 +335,7 @@ amazon: "https://www.amazon.com/dp/B072YVWBXH?tag=aadhithyan637-20"
 
 {
 id: 16,
+category: "Beauty & Skincare",
 name: "Hawaiian Tropic Mineral Powder Sunscreen Brush SPF 30 | Matte Oil Control Travel Sunscreen for Face & Makeup",
 price: 59,
 rating: 4.2,
@@ -344,6 +360,7 @@ amazon: "https://www.amazon.com/dp/B09GXF7KVD?tag=aadhithyan637-20"
 
 {
 id: 17,
+category: "Beauty & Skincare",
 name: "Puttisu Kids Sun Cushion SPF50 PA+++ | Safe Mineral Sunscreen for Kids | UVB & UVA Protection | Easy Cushion Application",
 price: 59,
 rating: 4.3,
@@ -368,6 +385,7 @@ amazon: "https://www.amazon.com/dp/B079DVTX5Z?tag=aadhithyan637-20"
 
 {
 id: 18,
+category: "Beauty & Skincare",
 name: "Tinted Sunscreen SPF 50 That Replaces Foundation 😳 | No Makeup Look for Glowing Skin",
 price: 59,
 rating: 4.4,
@@ -392,6 +410,7 @@ amazon: "https://www.amazon.com/dp/B0CLVM67FV?tag=aadhithyan637-20"
 
 {
 id: 19,
+category: "Electronics",
 name: "Stay Powered Anywhere While Traveling 🔋 | Best Power Bank for Camping, Emergency & Outdoor Use (Fast Charging + Wireless)",
 price: 59,
 rating: 4.3,
@@ -416,6 +435,7 @@ amazon: "https://www.amazon.com/dp/B07FDXDB3W?tag=aadhithyan637-20"
 
 {
 id: 20,
+category: "Beauty & Skincare",
 name: "SPF 50 Sunscreen That Doesn’t Feel Greasy ✨ No White Cast | Lightweight Glowing Skin Sunscreen",
 price: 59,
 rating: 4.3,
@@ -440,6 +460,7 @@ amazon: "https://www.amazon.com/dp/B09QFW9RF3?tag=aadhithyan637-20"
 
 {
 id: 21,
+category: "Beauty & Skincare",
 name: "Best Anti Frizz Hair Spray for Humidity | Get Smooth Glass Hair at Home",
 price: 59,
 rating: 4.3,
@@ -464,6 +485,7 @@ amazon: "https://www.amazon.com/Color-Dream-Supernatural-Spray-Unisex/dp/B07FJ78
 
 {
 id: 22,
+category: "Beauty & Skincare",
 name: "The Ordinary Glycolic Acid 7% Exfoliating Toner, Brightening and Smoothing Daily Toner for More Even-Looking Skin Tone",
 price: 59,
 rating: 4.7,
@@ -488,6 +510,7 @@ amazon: "https://www.amazon.com/Ordinary-Exfoliating-Brightening-Smoothing-Even-
 
 {
 id: 23,
+category: "Home Decor",
 name: "Flower Pillow Pink Throw Pillow Cute Daisy Decorative Pillow 15.75, Home Decorative Pillows for Bed, Sofa, Couch",
 price: 59,
 rating: 4.5,
@@ -512,6 +535,7 @@ amazon: "https://www.amazon.com/dp/B09P9N1Z5R?_encoding=UTF8&th=1&tag=aadhithyan
 
 {
 id: 24,
+category: "Fashion & Jewelry",
 name: "COOFANDY Men's 2 Pieces Cotton Linen Set Henley Shirt Long Sleeve and Casual Beach Pants Summer Yoga Outfits",
 price: 59,
 rating: 4.1,
@@ -539,6 +563,7 @@ amazon: "https://www.amazon.com/COOFANDY-Pieces-Cotton-Sleepwear-Pajamas/dp/B089
 
 {
 id: 25,
+category: "Beauty & Skincare",
 name: "medicube Toner Pads Zero Pore Pad 2.0 | Dual-Textured Facial Pad for Exfoliation and Pore Care with 4.5% AHA Lactic Acid, 0.45% BHA Salicylic Acid | Ideal for All, Korean Skin Care, 70 Pads (1 Pack)",
 price: 59,
 rating: 4.6,
@@ -568,6 +593,7 @@ amazon: "https://www.amazon.com/dp/B09V7Z4TJG?th=1&linkCode=ll2&tag=aadhithyan63
 
 {
 id: 26,
+category: "Beauty & Skincare",
 name: "Mighty Patch Original Patch from Hero Cosmetics - #1 Hydrocolloid Acne Pimple Patches for Face, Shrinking Zits & Whiteheads in 1 Use, Nighttime Spot Pimple Stickers for Face, 36 Count",
 price: 59,
 rating: 4.6,
@@ -599,6 +625,7 @@ amazon: "https://www.amazon.com/dp/B074PVTPBW?th=1&linkCode=ll2&tag=aadhithyan63
 
 {
 id: 27,
+category: "Home Decor",
 name: "Cocorrína Reed Diffuser Set, Clean Linen 6.7 fl oz Scented Diffuser with Sticks Home Fragrance Reed Diffuser for Bathroom Shelf Decor",
 price: 59,
 rating: 4.4,
@@ -630,6 +657,7 @@ amazon: "https://www.amazon.com/Cocorr%C3%ADna-Diffuser-Fragrance-Essential-Bath
 
 {
 id: 28,
+category: "Beauty & Skincare",
 name: "Clean Skin Club Clean Towels XL®, 100% USDA Biobased Face Towel, Disposable Face Towelette, Eczema Association Accepted, Makeup Remover Dry Wipes, Ultra Soft, 1 Pack, 50 Ct",
 price: 59,
 rating: 4.8,
@@ -652,6 +680,7 @@ amazon: "https://www.amazon.com/Clean-Skin-Club-Disposable-Sensitive/dp/B07PBXXN
 
 {
 id: 29,
+category: "Home Decor",
 name: "OLANLY Area Rugs for Living Room Bedroom, Machine Washable 4x5.9 ft Soft Fluffy Shaggy Bedside Rug, Indoor Floor Carpet for Kids Girls and Boys, Dorms, Nursery Rooms, Home Decor Aesthetic, Grey",
 price: 59,
 rating: 4.4,
@@ -683,6 +712,7 @@ amazon: "https://www.amazon.com/OLANLY-Bedroom-Machine-Washable-Aesthetic/dp/B0D
 
 {
 id: 30,
+category: "Kitchen & Cooking",
 name: "Premium Vegetable Chopper and Mandoline Slicer - Food Chopper and Spiralizer with Container, Julienne Slicer, Fruit Slicer, Veggie Cutter, Kitchen Gadgets & Gift for Mom (14 in 1, Steel)",
 price: 59,
 rating: 4.5,
@@ -715,6 +745,7 @@ amazon: "https://www.amazon.com/Vegetable-Chopper-Spiralizer-Slicer-Choppers/dp/
 
 {
 id: 31,
+category: "Storage & Organization",
 name: "Scalloped Multipurpose Hyacinth Storage Basket, Plant Décor, Handwoven Organizer Tote for Bedroom, Living Room, Nursey, w/Lid - Chestnut",
 price: 59,
 rating: 5.0,
@@ -748,6 +779,7 @@ amazon: "https://www.amazon.com/Best-Choice-Products-Scalloped-Multipurpose/dp/B
 
 {
 id: 32,
+category: "Fashion & Jewelry",
 name: "FUTIMELY Boho Retro Stackable Rings Sets for Women Knuckle Joint Finger Knuckle Nail Ring Sets Moon Stars Stack Preppy Statement Rings Cute Trendy Stuff Jewelry",
 price: 59,
 rating: 4.0,
@@ -781,6 +813,7 @@ amazon: "https://www.amazon.com/FUTIMELY-Stackable-Rhinestone-Knuckle-Kunckle/dp
 
 {
 id: 33,
+category: "Home Decor",
 name: "Der Rose 4 Pack Black Bathroom Decor Fake Plants Mini Artificial Greenery Potted Plants for Halloween Decor Indoor Office Table Room Farmhouse Decor",
 price: 59,
 rating: 4.6,
@@ -813,6 +846,7 @@ amazon: "https://www.amazon.com/Rose-Artificial-Greenery-Bathroom-Farmhouse/dp/B
 
 {
 id: 34,
+category: "Home Decor",
 name: "ASAKUKI Essential Oil Diffuser for Home, 500ML Aromatherapy Diffuser Humidifier with Remote Control, 7 Color LED Lights, Quiet Cool Mist Diffuser for Bedroom, Office, Gift for Mom (Yellow)",
 price: 59,
 rating: 4.4,
@@ -845,6 +879,7 @@ amazon: "https://www.amazon.com/ASAKUKI-Essential-Ultrasonic-Aromatherapy-Humidi
 
 {
 id: 35,
+category: "Fashion & Jewelry",
 name: "PAVOI 14K Gold Plated Solid 925 Sterling Silver CZ Simulated Diamond Stackable Ring Eternity Bands for Women",
 price: 59,
 rating: 4.4,
@@ -877,6 +912,7 @@ amazon: "https://www.amazon.com/PAVOI-Yellow-Zirconia-Stackable-Eternity/dp/B01M
 
 {
 id: 36,
+category: "Electronics",
 name: "32GB FRAMEO 10.1 Inch Smart WiFi Digital Photo Frame 1280x800 IPS LCD Touch Screen, Auto-Rotate Portrait and Landscape, Built in 32GB Memory, Share Moments Instantly via Frameo App from Anywhere",
 price: 59,
 rating: 4.5,
@@ -909,6 +945,7 @@ amazon: "https://www.amazon.com/Akimart-Digital-Auto-Rotate-Anywhere-Android/dp/
 
 {
 id: 37,
+category: "Beauty & Skincare",
 name: "Glamnetic Press On Nails - MaDamn | French Tip UV Finish Short Pointed Almond Fake Nails, Salon Quality Semi-Transparent Nails in 12 Sizes - 24 Nail Kit with Glue",
 price: 59,
 rating: 4.1,
@@ -941,6 +978,7 @@ amazon: "https://www.amazon.com/Glamnetic-Press-Nails-Reusable-Semi-Transparent/
 
 {
 id: 38,
+category: "Beauty & Skincare",
 name: "Beetles 44pcs Gel Nail Polish Set - 36 Colors Colorful Muse Gel Polish Kit Pink Nude Red Yellow Green Black White Glitter Nail Kit Base Top Coat UV LED Needed Salon DIY Home Gift for Women",
 price: 59,
 rating: 4.5,
@@ -973,6 +1011,7 @@ amazon: "https://www.amazon.com/Beetles-Color-Gel-Nail-Polish/dp/B0CGZBNB24?cont
 
 {
 id: 39,
+category: "Beauty & Skincare",
 name: "Beetles Cat Eye Gel Nail Polish Set, 6 Colors Fairy Garden Pastel Spring Shimmer Glitter Gel Polish Kit Pink Red Blue Orange Green Purple Velvet Gel Soak Off UV Magnet Nail Art DIY Gift for Women",
 price: 59,
 rating: 4.5,
@@ -1005,6 +1044,7 @@ amazon: "https://www.amazon.com/beetles-Gel-Polish-Beetles-nailpolish/dp/B0D2LFL
 
 {
 id: 40,
+category: "Beauty & Skincare",
 name: "UNA GELLA Almond Nail Tips 216pcs Medium Almond Press on Nails Pre-shape Gel Fake Nails for Full Cover Acrylic French False Nails For Nail Extension, DIY Salon 12 Sizes Gelly Tips",
 price: 59,
 rating: 4.4,
@@ -1037,6 +1077,7 @@ amazon: "https://www.amazon.com/UNA-GELLA-Pre-Shape-Acrylic-Extension/dp/B0916DV
 
 {
 id: 41,
+category: "Baby & Kids",
 name: "SplashEZ 3-in-1 Splash Pad, Sprinkler for Kids & Baby Pool for Learning – Toddler Sprinkler Pool, 60’’ Outside Water Toys – “from A to Z” Outdoor Play Mat for Babies & Toddlers",
 price: 59,
 rating: 4.4,
@@ -1069,6 +1110,7 @@ amazon: "https://www.amazon.com/SplashEZ-Sprinkler-Splash-Wading-Learning/dp/B07
 
 {
 id: 42,
+category: "Bags & Travel",
 name: "Hydro Flask Water Bottle - Insulated Stainless Steel - Wide Straw Lid, Non Spill, Leakproof in 40 Oz Wide Mouth Flex Straw Cap Seacliff",
 price: 59,
 rating: 4.8,
@@ -1100,6 +1142,7 @@ amazon: "https://www.amazon.com/Hydro-Flask-Water-Bottle-Insulated/dp/B0D8K4GQN5
 
 {
 id: 43,
+category: "Bags & Travel",
 name: "MIYCOO Lunch Bag Lunch Box Women - Leakproof Insulated Lunch Cooler Bag for Women - Large Lunch Tote Bags Adults, Purple",
 price: 59,
 rating: 4.7,
@@ -1131,6 +1174,7 @@ amazon: "https://www.amazon.com/MIYCOO-Lunch-Bag-Box-Women/dp/B0C2YW1TCK?dib=eyJ
 
 {
 id: 44,
+category: "Bags & Travel",
 name: "HydroJug Traveler - 40 oz Water Bottle with Handle & Flip Straw - Fits in Cup Holder, Leak Resistant Tumbler-Reusable Insulated Stainless Steel & Rubber Base - Gifts for Women & Men, Cream",
 price: 59,
 rating: 4.6,
@@ -1162,6 +1206,7 @@ amazon: "https://www.amazon.com/HydroJug-Traveler-Resistant-Tumbler-Reusable-Ins
 
 {
 id: 45,
+category: "Electronics",
 name: "Govee RGBIC LED Strip Lights 32.8ft with Covers, Smart Lights Work with Alexa and Google Assistant, LED Diffuser Channel with LED Lights for Bedroom, Skirting Lines, Studio, Cabinet",
 price: 59,
 rating: 4.2,
@@ -1197,6 +1242,7 @@ amazon: "https://www.amazon.com/Govee-Assistant-Diffuser-Channel-Skirting/dp/B0D
 
 {
 id: 46,
+category: "Beauty & Skincare",
 name: "Grace & Stella Award Winning Under Eye Mask - Gel Eye Patches for Dark Circles, Puffy Eyes, Undereye Bags - Vegan Self Care (24 Pairs, Gold)",
 price: 59,
 rating: 4.4,
@@ -1232,6 +1278,7 @@ amazon: "https://www.amazon.com/Under-Eye-Patches-Gold-24-Pairs/dp/B014E2D6BY?cr
 
 {
 id: 47,
+category: "Bags & Travel",
 name: "CleverMade Tahoe Collapsible Cooler Bag – Medium Portable Foldable Insulated Cooler for Beach, Travel & Road Trips",
 price: 59,
 rating: 4.5,
@@ -1266,6 +1313,7 @@ amazon: "https://www.amazon.com/CleverMade-Collapsible-Folding-Shoulder-Midnight
 },
 
 {id: 48,
+category: "Beauty & Skincare",
 name: "LAURA GELLER NEW YORK Best of the Best Baked Palette – 7-in-1 Full Face Palette – Bronzer, Blush, 2 Highlighters & 3 Eyeshadows – Crease-Proof, Handmade in Italy – Travel-Friendly",
 price: 59,
 rating: 4.5,
@@ -1301,6 +1349,7 @@ amazon: "https://www.amazon.com/LAURA-GELLER-NEW-YORK-Best/dp/B0BBH8FRYL?content
 
 {
  id: 49,
+category: "Bags & Travel",
 name: "MIYCOO Cooler Backpack – 40 Cans Insulated Leakproof Backpack Cooler for Beach Travel Camping Hiking Picnic BBQ",
 price: 39,
 rating: 4.6,
@@ -1337,6 +1386,7 @@ amazon: "https://www.amazon.com/Cooler-Backpack-2pc-Ice-Packs/dp/B0D5MFG5RF?crid
 
 {
   "id": 50,
+  "category": "Bags & Travel",
   "name": "Hearth & Hand with Magnolia Soft Sided Cooler Bag – Sour Cream/Toffee Stripe Portable Picnic Cooler",
   "price": 35,
   "rating": 4.7,
@@ -1372,6 +1422,7 @@ amazon: "https://www.amazon.com/Hearth-Sided-Cooler-Toffee-Stripe/dp/B0H1Y9XB2J?
 
  {
   "id": 51,
+  "category": "Beauty & Skincare",
   "name": "Milani Baked Blush, Updated Powder Blush for Cheeks, Cruelty Free Makeup - Shape, Contour & Highlight Face for a Shimmery or Matte Finish - Pink Panna Cotta",
   "price": 59,
   "rating": 4.6,
@@ -1407,6 +1458,7 @@ amazon: "https://www.amazon.com/Hearth-Sided-Cooler-Toffee-Stripe/dp/B0H1Y9XB2J?
 
 {
   "id": 52,
+  "category": "Cleaning & Laundry",
   "name": "Miss Mouth's Messy Eater Stain Treater Spray - Fast Acting Baby Clothes & Laundry Stain Remover",
   "price": 24,
   "rating": 4.4,
@@ -1442,6 +1494,7 @@ amazon: "https://www.amazon.com/Miss-Mouths-Messy-Eater-Treater/dp/B0BVXQQNBB?cr
 
 {
   "id": 53,
+  "category": "Bags & Travel",
   "name": "Amepay Butterfly Floral Insulated Lunch Bag - Cute Aesthetic Lunch Tote for Women Teens & School",
   "price": 19,
   "rating": 4.2,
@@ -1477,6 +1530,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 
 {
   "id": 54,
+  "category": "Kitchen & Cooking",
   "name": "Dash Rapid Egg Cooker - 7 Egg Capacity Electric Boiler, Poacher & Omelet Maker (Cream)",
   "price": 20,
   "rating": 4.6,
@@ -1512,6 +1566,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 
 {
   "id": 55,
+  "category": "Beauty & Skincare",
   "name": "Vichy Mineral 89 Booster, Pure Hyaluronic Acid Serum for Face with Polyglutamic Acid for Skin Barrier Repair, Plumps & Hydrates, Lightweight Hydrating Serum, Oil-Free, Non-Sticky",
   "price": 30,
   "rating": 4.6,
@@ -1547,6 +1602,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 
 {
   "id": 56,
+  "category": "Beauty & Skincare",
   "name": "La Roche-Posay Toleriane Double Repair Face Moisturizer, Daily Moisturizer with Ceramide-3 & Niacinamide for Barrier Repair and 48-Hour Hydration",
   "price": 24,
   "rating": 4.6,
@@ -1582,6 +1638,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 
 {
   "id": 57,
+  "category": "Beauty & Skincare",
   "name": "La Roche-Posay Anthelios Clear Skin Oil-Free Sunscreen SPF 60, Matte Finish Face Sunscreen for Oily & Acne-Prone Skin",
   "price": 20,
   "rating": 4.4,
@@ -1619,6 +1676,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 
 {
   "id": 58,
+  "category": "Beauty & Skincare",
   "name": "La Roche-Posay Toleriane Purifying Foaming Facial Cleanser, Oil-Free Face Wash with Niacinamide & Ceramide-3",
   "price": 18,
   "rating": 4.7,
@@ -1655,6 +1713,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
  {
   "id": 59,
+  "category": "Kitchen & Cooking",
   "name": "VQ Laura Ashley 6.8 Quart Slow Cooker - China Rose",
   "price": 18,
   "rating": 4.4,
@@ -1691,6 +1750,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
  {
   "id": 60,
+  "category": "Books",
   "name": "Fix-It and Forget-It Big Cookbook: 1400 Best Slow Cooker Recipes",
   "price": 18,
   "rating": 4.6,
@@ -1727,6 +1787,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 61,
+  "category": "Bath & Body",
   "name": "Molton Brown Rose Dunes Body Wash 10 fl. oz.",
   "price": 35,
   "rating": 4.6,
@@ -1762,6 +1823,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 62,
+  "category": "Bath & Body",
   "name": "The Honest Company Refresh 2-in-1 Shampoo + Body Wash Citrus Vanilla 10 fl. oz.",
   "price": 11.99,
   "rating": 4.7,
@@ -1796,6 +1858,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 63,
+  "category": "Bath & Body",
   "name": "L'OCCITANE Cleansing & Softening Almond Shower Oil Body Wash & Shaving Base 16.9 fl. oz.",
   "price": 29.99,
   "rating": 4.4,
@@ -1830,6 +1893,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 64,
+  "category": "Bath & Body",
   "name": "Dermalogica Conditioning Hand + Body Wash (10 Fl Oz)",
   "price": null,
   "rating": 4.6,
@@ -1864,6 +1928,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 65,
+  "category": "Kitchen & Cooking",
   "name": "Blackstone Egg & Omelet Ring Kit (7 Piece Set)",
   "price": 37,
   "rating": 4.6,
@@ -1895,6 +1960,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
  {
   "id": 66,
+  "category": "Books",
   "name": "The Stay-at-Home Chef Slow Cooker Cookbook: 120 Restaurant-Quality Recipes You Can Easily Make at Home",
   "price": 15,
   "rating": 4.6,
@@ -1932,6 +1998,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 67,
+  "category": "Gifts & Gadgets",
   "name": "Whiskey Smoker Kit with Torch - 6 Flavors Wood Chips, 2 Glasses, 2 Ice Ball Molds - Cocktail Smoker Infuser Kit",
   "price": 40,
   "rating": 4.6,
@@ -1973,6 +2040,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 68,
+  "category": "Gifts & Gadgets",
   "name": "TESLYAR Wood Phone Docking Station for Men - Desk & Nightstand Organizer (Bourbon Brown)",
   "price": 40,
   "rating": 4.7,
@@ -2026,6 +2094,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 69,
+  "category": "Bath & Body",
   "name": "Salt & Stone Body Wash with Antioxidants for Deep Moisture - Santal & Vetiver (15.2 fl oz)",
   "price": 36,
   "rating": 4.3,
@@ -2080,6 +2149,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 70,
+  "category": "Kitchen & Cooking",
   "name": "Zojirushi 3 Cup Rice Cooker/Steamer (White)",
   "price": 59,
   "rating": 4.5,
@@ -2130,6 +2200,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 71,
+  "category": "Storage & Organization",
   "name": "Casafield Half Moon Laundry Hamper with Lid and Removable Liner Bag - Espresso Dark Brown",
   "price": 70,
   "rating": 4.6,
@@ -2166,6 +2237,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 72,
+  "category": "Kitchen & Cooking",
   "name": "Elite Gourmet EWMST-325R Triple Slow Cooker Buffet Server, 3 x 2.5 Qt Capacity, Red",
   "price": 65,
   "rating": 4.7,
@@ -2206,6 +2278,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 73,
+  "category": "Cleaning & Laundry",
   "name": "Tide Laundry Detergent Liquid, Original Scent, 64 Loads, 80 FL OZ",
   "price": 19,
   "rating": 4.8,
@@ -2248,6 +2321,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 } ,
 {
   "id": 74,
+  "category": "Fashion & Jewelry",
   "name": "Project Cloud 100% Genuine Leather Flat Sandals for Women 2026 Cork Footbed Memory Foam Arch Support Slides (Venita)",
   "price": 35,
   "rating": 4.4,
@@ -2288,6 +2362,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 75,
+  "category": "Storage & Organization",
   "name": "SINGAYE 6 Shelves Bathroom Organizer and Storage Shelf Wire Closet Metal Pantry Kitchen Small Garage Shelving Unit Black 10\" D x 16\" W x 60\" H",
   "price": 35,
   "rating": 4.4,
@@ -2328,6 +2403,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
  {
   "id": 76,
+  "category": "Home Decor",
   "name": "17\" Purple Pressed Flower Resin Wind Chime, Handmade Suncatcher Mobile, Boho Hanging Decor, Floral Crystal Window Art",
   "price": 30,
   "rating": 4.7,
@@ -2368,6 +2444,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
  {
   "id": 77,
+  "category": "Home Decor",
   "name": "ROYAL CRAFT WOOD Premium Foldable Bathtub Tray Caddy",
   "price": 40,
   "rating": 4.6,
@@ -2407,6 +2484,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 78,
+  "category": "Storage & Organization",
   "name": "Ukeetap 2 Pack Multi-Purpose Pull-Out Storage Organizers",
   "price": 25,
   "rating": 4.6,
@@ -2445,6 +2523,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 79,
+  "category": "Home Decor",
   "name": "COPREE Bamboo 3-Tier Hanging Plant Stand Planter Shelves Flower Pot Organizer Rack",
   "price": 40,
   "rating": 4.4,
@@ -2483,6 +2562,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 80,
+  "category": "Beauty & Skincare",
   "name": "Espoir Glowrizer Face Primer | Hydrating & Moisturizing Makeup Base with Hyaluronic Acid & Niacinamide",
   "brand": "Espoir",
   "price": 31,
@@ -2523,6 +2603,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
  amazon: "https://www.amazon.com/Espoir-Glowrizer-Moisturizing-Natural-born-Recommended/dp/B0DBQG9HVP?crid=3I9ZCHUJNVEZR&dib=eyJ2IjoiMSJ9.B0ZbP3tC-VV0SLXaFUqSi67PqE4ItOa5o4v_CjJ0DGWXP__Yv5NW62Ihoe3v7hpjn3HfH2jstfBfkYEnhDNxt2uBD4EudCMmHc-dTWI259-DVkugyD3UR0Q4qc8Y2FRm8G-5p_q70g038sx0UTGriafQE8CkXkb0fiw2oW7LXzsjcmcBr7zK6xS6hcS04cRMczDydg1WfNyisruH8l_ZN9IKbjOrPqAAFxKCBX15p3Trjq8Tb292WGraA9X_OUROZOGAKzfSO3ciqupaIdKv3VlBl3gEBqKFjifYuzlFn-M.Snmlmzo-ra0Tb8r6GUQJci8VUapZVez9xVSR2p2j-z4&dib_tag=se&keywords=Espoir+Glowrizer+Face+Primer+%7C+Hydrating+%26+Moisturizing+Makeup+Base+with+Hyaluronic+Acid+%26+Niacinamide%2C+All+Skin+Types%2C+Perfect+for+Glow+and+Radiant&nsdOptOutParam=true&qid=1781592013&sprefix=espoir+glowrizer+face+primer+hydrating+%26+moisturizing+makeup+base+with+hyaluronic+acid+%26+niacinamide%2C+all+skin+types%2C+perfect+for+glow+and+radiant%2Caps%2C684&sr=8-1&linkCode=ll2&tag=aadhithyan637-20&linkId=5c8912a0b2288be6a32370e31b168270&language=en_US&ref_=as_li_ss_tl"
 },{
   "id": 81,
+  "category": "Home Decor",
   "name": "GEEBOBO 5 Tiered Tall Plant Stand for Indoor, Wood Plant Shelf Corner Display Rack",
   "price": 30,
   "rating": 4.3,
@@ -2560,6 +2641,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
  amazon: "https://www.amazon.com/GEEBOBO-Outdoor-Display-Multi-tier-Planter/dp/B09GY113GL?crid=1SC38LQ8SALF3&dib=eyJ2IjoiMSJ9.GMQtXDDlopZToy_kEWMgI1l3WaKaW0mP8FxyUjTEmPhNRmave3TU7fo8RdpDVfhMusqU-ZOV1YXdUhQXOJMtdfAe61OKV9QDV5I7X0RnbdCjUO6HcHOXfQe5CQORYIAneqtQjr7FtgMEBOfQaPGrsrKCDCKK-xtMQyJEK2BmQFXd5gLmY4KU7TkBN3Q-RtvKxV6kDMr12j4IdZcWk_gHjGH5PH9MBbwBpmOP8jXLo1417Rt6o1zADdMupmQEPLMIUrBRM-kaCBkjLObSWI5wLBaDMD3K--X59sIFJX-Ki5E.UfwvK7HNqzs46pd3Wt_ehbn4WZuzrD1Q7Zd9d2J2d00&dib_tag=se&keywords=6%2BTier%2BWooden%2BPlant%2BStand%2BIndoor%2Bwith%2BWheels&nsdOptOutParam=true&qid=1781606066&sprefix=6%2Btier%2Bwooden%2Bplant%2Bstand%2Bindoor%2Bwith%2Bwheels%2Caps%2C418&sr=8-10&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=0f10dd4e46a72a6f55e85d753568043a&language=en_US&ref_=as_li_ss_tl"
 },{
   "id": 82,
+  "category": "Storage & Organization",
   "name": "Kalrin Over-The-Toilet Storage Rack, 4-Tier Bathroom Organizer Shelf with Adjustable Shelves and Basket",
   "price": 50,
   "rating": 4.5,
@@ -2597,6 +2679,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
  amazon: "https://www.amazon.com/Kalrin-Bathroom-Organizer-Adjustable-Freestanding/dp/B0CYZW6NZJ?crid=2WIR1PZQOKIAW&dib=eyJ2IjoiMSJ9.fkS87wERZEidIMKjcQDZUt5kTqiBe5eCbJTPGkuaQPxxQIGTB6r4xXknjjWk1CxW-lKQ2k3buIskUA75r0HljwPyNBA2M3PBn6VNmYo3X1cHZvQfI8I9g7hWLMljC3uBFmfMmb53P-n8mRxsJxG6w73rtY1MSa2858HbAqrKVqkiJgcJl24pM2nbbZMUIoZMvraZe0m3MWjaNDoeAgz_3t0gj6iEYpZ4HBgJhJcEAZB6pnZP9WXOX9CbbqdX_ptNy892OCJv645ni3_q9atXONyr0EDOGE52wffBiVv1OjI.PB8mAWnMJPB4CAYojAOd2yz7V7l_cqZRsiTvwJxPmtA&dib_tag=se&keywords=Djuize%2BWall%2BShelf%2Bwith%2BWooden%2BTop&qid=1781690062&sprefix=djuize%2Bwall%2Bshelf%2Bwith%2Bwooden%2Btop%2Caps%2C580&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=4e85a84e7ac94401388ca06bb4f734ac&language=en_US&ref_=as_li_ss_tl"
 },{
   "id": 83,
+  "category": "Cleaning & Laundry",
   "name": "Downy Liquid Fabric Softener, April Fresh 2-in-1 Fresh & Soft, 140 Fl Oz",
   "price": 18,
   "rating": 4.8,
@@ -2634,6 +2717,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
  amazon: "https://www.amazon.com/Downy-Fabric-Softener-April-Fresh/dp/B0C8XBKZYG?crid=35SYIIF3N78UE&dib=eyJ2IjoiMSJ9.tiueCtGpsQ29Nh6FDAIUv26GEu7MlbejwsLYDpKIvsaRsz8XoGI-YcNvohwvJ40H9IADATHLvvOYX2pAUEOTxibwCxGOI0J_iF0LgWgRg2VIN__f4AuwCn8xhdNtMl3coHY2V2ow8Jqfb0gY5mcEhaM0IbyQvThblpkSzbaCluzJ0Sx_cslX_mNoWDEMmb6KTfOEMvdcnr1j7HsWuzeZvKJqHPN85SHSoJU0x0dm1eR2Bd8_POAU-E4mftECx9z1dtkrw1tFP5r15Pa41f6be514rB0UUwLoeXd2qN8pgcE.s9K174HlCx9TfrpY3EXaVmJIT0wSRxLa2Fek8pLS7pI&dib_tag=se&keywords=Ultra%2BApril%2BFresh%2BScent%2BLiquid%2BFabric%2BSoftener%2C%2B190-Loads%2C%2B140%2Bfl.%2Boz.&nsdOptOutParam=true&qid=1781692992&sprefix=revitalize%2Byour%2Bfloral%2Barrangement%2Caps%2C1238&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=507af7a5c947e6c867a7ea8b1db57902&language=en_US&ref_=as_li_ss_tl"
 },{
   "id": 84,
+  "category": "Storage & Organization",
   "name": "ROMOON Laundry Sorter Hamper with Hanging Bar, 3 Section Rolling Laundry Cart Organizer",
   "price": 40,
   "rating": 4.6,
@@ -2671,6 +2755,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
  amazon: "https://www.amazon.com/ROMOON-Laundry-3-Section-Capacity-Removable/dp/B0G6JJRCWD?crid=4AMVDO0CIM4C&dib=eyJ2IjoiMSJ9.W0ElTMb-JUf7Qt6Iu2oCNvXDrp15_Qw2fLZoIDzVEXK7hn3495zbJcn_boxzx5aLbBw4VBXmiBORcL44savN55HoMO7e6CDOREKWI9uGMrv8UYPRDVhdFXVwQlXMRq3Qv9Ns0YtGbd_PIbQbkY1_8gCiAKMz15tjUfQaw5jbP8nGaUAFwWH56IpPIbNUthsdcwEgv1q3aF51K2TIJSXHmf_x-iauVLFx4kCkzZTi0NdhJxulyrflinykDih7vAYEI8l52wawmiESCz-dTlo_yfzf1FLv8HorB0QTI7H7YsU.I72NjMyS8panzFhcSMneQGdjrGduL_AEBXHFweThSk0&dib_tag=se&keywords=Dark%2BGray%2B36%2Bin.%2Bx%2B17.3%2Bin.%2Bx%2B30.7%2Bin.%2BWood%2B%28Bamboo%29%2B3-Bag%2BLaundry%2BSorter&nsdOptOutParam=true&qid=1781766055&sprefix=dark%2Bgray%2B36%2Bin.%2Bx%2B17.3%2Bin.%2Bx%2B30.7%2Bin.%2Bwood%2Bbamboo%2B3-bag%2Blaundry%2Bsorter%2Caps%2C484&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=993923a33b086938ce7d6beb2c097ec8&language=en_US&ref_=as_li_ss_tl"
 } ,{
   "id": 85,
+  "category": "Home Decor",
   "name": "Ukulork Butterfly Wind Chimes for Outside, Rose Gold Aluminum Tube Garden Decor",
   "price": 20,
   "rating": 4.7,
@@ -2710,6 +2795,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
  {
   "id": 86,
+  "category": "Storage & Organization",
   "name": "Vtopmart 25 PCS Clear Plastic Drawer Organizers Set, Multi-Size Storage Trays for Bathroom, Vanity, Kitchen & Office",
   "price": 25,
   "rating": 4.7,
@@ -2747,6 +2833,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 87,
+  "category": "Home Decor",
   "name": "JASAI 18Oz Simple Glass Soap Dispenser with Black Rust Proof Pump",
   "price": 15,
   "rating": 4.6,
@@ -2781,6 +2868,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 } ,
 {
   "id": 88,
+  "category": "Home Decor",
   "name": "Lynagert Small Heart Hands Sculpture Decor, Modern Love Finger Statue for Living Room, Bedroom, Bookshelf & Coffee Table (Gold)",
   "price": 19,
   "rating": 4.7,
@@ -2813,6 +2901,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 89,
+  "category": "Baby & Kids",
   "name": "Hatch Baby Sound Machine & Night Light, Wi-Fi Sleep Support Device with Time-to-Rise Alarm Clock and White Noise (Putty)",
   "price": 80,
   "rating": 4.8,
@@ -2850,6 +2939,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 90,
+  "category": "Home Decor",
   "name": "NIMBLOOM Lemon Ceramic Vase, 3D Decorative Tabletop Flower Vase for Home Decor, Yellow",
   "price": 25,
   "rating": 5.0,
@@ -2880,6 +2970,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 91,
+  "category": "Home Decor",
   "name": "SCANDINORDICA Disco Ball Planter Value Package with Chain, Macrame Hanger, Acrylic Stand & Self-Watering Insert, 6 Inch Silver",
   "price": 21,
   "rating": 4.7,
@@ -2916,6 +3007,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 92,
+  "category": "Home Decor",
   "name": "FANTESTICRYAN Small Birds Statues Gold Home Decor Modern Style Figurine Decorative Ornaments",
   "price": 25,
   "rating": 4.7,
@@ -2949,6 +3041,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 93,
+  "category": "Home Decor",
   "name": "Bedsure GentleSoft White Throw Blanket for Couch - Cozy Fleece Blanket, Off White, 50x60 Inches",
   "price": 20,
   "rating": 4.6,
@@ -2976,6 +3069,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 94,
+  "category": "Home Decor",
   "name": "Lazebox Coasters Set of 8 for Drinks - 4 Inch Cotton Round Coasters with Metal Holder, Coffee",
   "price": 10,
   "rating": 4.7,
@@ -3003,6 +3097,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 95,
+  "category": "Home Decor",
   "name": "Hananona 6 Pcs Artificial Geranium Flowers for Outdoors - UV Resistant Silk Red Faux Garden Plants",
   "price": 20,
   "rating": 4.5,
@@ -3029,6 +3124,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
 },
 {
   "id": 96,
+  "category": "Home Decor",
   "name": "ooit Vintage Vase Set of 3 Ceramic Chinoiserie Decorative Flower Vases - Green & Beige",
   "price": 35,
   "rating": 4.7,
@@ -3054,35 +3150,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
  amazon: "https://www.amazon.com/Vintage-Chinoiserie-Decorative-Farmhouse-Bookshelf/dp/B0FCFHBG26?crid=272RKLMANBJZF&dib=eyJ2IjoiMSJ9.dFKqCfScCCbLGBwqxxcGA-95IlxbNBO9jSV0MoOq14zlX15PK0AYbu0_j870MPbU54--_xueE8cU2VqGNeuAYinYYOWNmCjg109UuSDfQe0RWpG9WEe_oE9Qc6n6GD_iTSY4i-TPBJU5hTedSA1Y6lq5FkEkvAyfhujW7-Xx7MUqfgJ1tZuczsSkGDRea8qc4zwvd_FFM0wUqsJFHZ6hhbhtdbEfpJJVy5IO8I6C7668eR3O99cgbWukXxTRwpYnTqX7S6awolRYHYB5EX0QoPUNj0rclYvDnB-_XJVLeZI.oMUv6_x2iyxZyP3jUVljlsTSGHFmyW-NN0iol8kdVGQ&dib_tag=se&keywords=top%2Bhome%2Bdecor%2Bfinds%2B2026&qid=1783330068&sprefix=top%2Bhome%2Bdecor%2Caps%2C460&sr=8-22&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=a08835e86e41a4ae9ea97bd3a1687cef&language=en_US&ref_=as_li_ss_tl"
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]
-
-// ================= HELPER =================
 
 // ================= HELPER =================
 
@@ -3090,29 +3158,9 @@ function formatReviews(num){
 return num.toLocaleString() + "+"
 }
 
-// ================= AUTO CATEGORY DETECTOR =================
+// ================= CATEGORY (uses manual category field) =================
 function getCategory(product) {
-  const text = (product.name + " " + product.description).toLowerCase();
-
-  const categories = [
-    { name: "Electronics", keywords: ["speaker","echo","alexa","projector","fire tv","headphone","power bank","led strip","digital photo frame","tv","bluetooth","charging"] },
-    { name: "Kitchen & Cooking", keywords: ["air fryer","cooktop","egg cooker","slow cooker","rice cooker","chopper","mandoline","kitchen","cookbook","buffet server"] },
-    { name: "Beauty & Skincare", keywords: ["serum","sunscreen","toner","cleanser","moisturizer","blush","primer","makeup","nail","eye mask","face wash","skin"] },
-    { name: "Bath & Body", keywords: ["body wash","shower oil","shampoo","hand wash","soap"] },
-    { name: "Home Decor", keywords: ["vase","wind chime","statue","sculpture","plant stand","planter","candle","decor","frame","pillow","rug","fairy","disco ball"] },
-    { name: "Storage & Organization", keywords: ["organizer","storage","shelf","drawer","hamper","basket","rack","cooler","closet"] },
-    { name: "Bags & Travel", keywords: ["backpack","lunch bag","cooler bag","tote","water bottle","hydro flask","hydrojug"] },
-    { name: "Fashion & Jewelry", keywords: ["ring","sandals","shirt","clothing","jewelry","press on nails"] },
-    { name: "Cleaning & Laundry", keywords: ["detergent","stain","fabric softener","laundry","clean"] },
-    { name: "Books", keywords: ["cookbook","recipes"] },
-    { name: "Baby & Kids", keywords: ["splash pad","kids","toddler","baby"] },
-    { name: "Gifts & Gadgets", keywords: ["whiskey","smoker","docking station","gift"] }
-  ];
-
-  for (const cat of categories) {
-    if (cat.keywords.some(k => text.includes(k))) return cat.name;
-  }
-  return "Other";
+  return product.category || "Other";
 }
 
 function filterByCategory(cat){
