@@ -3148,6 +3148,33 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
  image: "https://github.com/Aadhi6374/image/blob/main/small%20decor.png?raw=true",
  amazon: "https://www.amazon.com/Vintage-Chinoiserie-Decorative-Farmhouse-Bookshelf/dp/B0FCFHBG26?crid=272RKLMANBJZF&dib=eyJ2IjoiMSJ9.dFKqCfScCCbLGBwqxxcGA-95IlxbNBO9jSV0MoOq14zlX15PK0AYbu0_j870MPbU54--_xueE8cU2VqGNeuAYinYYOWNmCjg109UuSDfQe0RWpG9WEe_oE9Qc6n6GD_iTSY4i-TPBJU5hTedSA1Y6lq5FkEkvAyfhujW7-Xx7MUqfgJ1tZuczsSkGDRea8qc4zwvd_FFM0wUqsJFHZ6hhbhtdbEfpJJVy5IO8I6C7668eR3O99cgbWukXxTRwpYnTqX7S6awolRYHYB5EX0QoPUNj0rclYvDnB-_XJVLeZI.oMUv6_x2iyxZyP3jUVljlsTSGHFmyW-NN0iol8kdVGQ&dib_tag=se&keywords=top%2Bhome%2Bdecor%2Bfinds%2B2026&qid=1783330068&sprefix=top%2Bhome%2Bdecor%2Caps%2C460&sr=8-22&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=a08835e86e41a4ae9ea97bd3a1687cef&language=en_US&ref_=as_li_ss_tl"
+},
+ {
+  "id": 97,
+  "category": "Home Decor",
+  "name": "FEXIA Boho Table Runner with Tassels 12x72 Inches - Rustic Farmhouse Macrame Cotton Burlap Decor",
+  "price": 16,
+  "rating": 4.7,
+  "reviews": 8734,
+  "description": "The FEXIA Boho Table Runner adds rustic farmhouse charm and elegant bohemian style to any living space. Measuring 12 x 72 inches, it is perfectly sized for dining tables that seat 4 to 8 people while also complementing coffee tables, bookshelves, TV stands, piano tops, kitchen islands, and bedroom furniture. Crafted from a durable cotton and polyester blend with decorative macrame tassels, this table runner features a timeless woven design that enhances boho, farmhouse, rustic, vintage, and modern interiors. Suitable for year-round decorating, it is ideal for weddings, bridal showers, baby showers, birthdays, holiday gatherings, Thanksgiving, Christmas, and everyday home decor. Easy to maintain with gentle hand or machine washing, it offers long-lasting beauty and functionality.",
+  "features": [
+    "Measures 12 x 72 inches for tables seating 4 to 8 people",
+    "Beautiful boho macrame design with decorative tassels",
+    "Premium cotton and polyester woven construction",
+    "Perfect for farmhouse, boho, rustic, and vintage home decor",
+    "Suitable for dining tables, coffee tables, TV stands, bookshelves, and piano tops",
+    "Ideal for weddings, bridal showers, baby showers, birthdays, and parties",
+    "Perfect for year-round seasonal decorating",
+    "Great for Thanksgiving, Christmas, Mother's Day, and New Year celebrations",
+    "Soft, durable, and reusable fabric for everyday use",
+    "Easy care with hand washing or gentle machine wash"
+  ],
+  "materials": [
+    "Cotton",
+    "Polyester"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/dinning%20table%20home%20decor.png?raw=true",
+ amazon: "https://www.amazon.com/FEXIA-Macrame-Farmhouse-Brown-Bohemian/dp/B0B27WGC8Q?crid=S29RPDCWXT0H&dib=eyJ2IjoiMSJ9.Q3fmKpB8szpVl1odWA7kl7wqgI4fE0iw6hsi3fl9u1mN8w3VMZ8DtXxceLfTL__-PjW6vjvXsdkVFGPbKf3VrKmteYWh00-qR-TnSKoWXOirpuJFdlIzinfHJS4F2ORCoBPTf9_B8QsBBWtSfaSbKFNRK-AqalGNOzMy6EhlQE6IvvllB7HZh0_qtFJFzoN-tvViRI5hMhZ2WOPJIZfXWxtZg17Ic7ZVJmLkeZ3sluRGTTUS15tACIZ_1vK9hZrzV-C6AMwYgLYlYsB-om4_g6YWQAOXUF-mkLAC1dt3TPc.k-AyD5AbT53LXCJCttP3lpbNEc3E5N2qRnQsiObqXqM&dib_tag=se&keywords=top%2Bhome%2Bdecor&qid=1783431830&refinements=p_n_condition-type%3A6358196011&rnid=256652011&sprefix=top%2Bhome%2Bdecor%2B%2Caps%2C572&sr=8-16&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=2572e9b21c98ad0b32b3a0e6ebe6fe66&language=en_US&ref_=as_li_ss_tl"
 }
 
 ]
