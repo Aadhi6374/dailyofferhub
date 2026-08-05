@@ -3200,7 +3200,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   "materials": [
     "High-Fired Ceramic"
   ],
- image: "https://github.com/Aadhi6374/image/blob/main/dinning%20table%20home%20decor.png?raw=true",
+ image: "https://github.com/dailyoffershubz/image/blob/main/vase.jpg?raw=true",
  amazon: "https://www.amazon.com/Vanselia-Ceramic-Flower-Vase-Decor/dp/B0DYNNJWG1?crid=1SIL95ZN21H63&dib=eyJ2IjoiMSJ9.7B5K28l8EhdFvjhqqwnka2rS9HF7Tevaok8IDaBgv_0ol6ggRs0IRPFa6BeMWqoWPVp7hqP-1qkwhOGSebccEptghSZlxZe69Ft3Ep8bDNZz1EhSkSV6hzOc8PFfKthfl09bYB2GdPm3VjtokNbRDpf70a9O9f8Bxyyhpga8j3CN_h0fliZ9hzl8Y9UCK6SJ_5VCUa0izTJtlWQalqM-SAQQ4GXxrJOfC--9I62ejV_EMAVfjo5ObBF8UQR8Pw8JhtfDSND_hkLpbvj2je64Vci4ZzOlXoA5M0oVbOmXcbM.5wreNELYR8j-tUhrSY3viW4vqpk9x-EptxRZuDHNv64&dib_tag=se&keywords=top%2Bhome%2Bdecor&qid=1785924556&sprefix=top%2Bhome%2Bdecor%2B%2Caps%2C380&sr=8-94&xpid=CqcUACwAJ3i4e&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=ce318847676d522306289919f7b273fd&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
 }
 
