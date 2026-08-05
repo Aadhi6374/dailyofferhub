@@ -3176,6 +3176,33 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
  image: "https://github.com/Aadhi6374/image/blob/main/dinning%20table%20home%20decor.png?raw=true",
  amazon: "https://www.amazon.com/FEXIA-Macrame-Farmhouse-Brown-Bohemian/dp/B0B27WGC8Q?crid=S29RPDCWXT0H&dib=eyJ2IjoiMSJ9.Q3fmKpB8szpVl1odWA7kl7wqgI4fE0iw6hsi3fl9u1mN8w3VMZ8DtXxceLfTL__-PjW6vjvXsdkVFGPbKf3VrKmteYWh00-qR-TnSKoWXOirpuJFdlIzinfHJS4F2ORCoBPTf9_B8QsBBWtSfaSbKFNRK-AqalGNOzMy6EhlQE6IvvllB7HZh0_qtFJFzoN-tvViRI5hMhZ2WOPJIZfXWxtZg17Ic7ZVJmLkeZ3sluRGTTUS15tACIZ_1vK9hZrzV-C6AMwYgLYlYsB-om4_g6YWQAOXUF-mkLAC1dt3TPc.k-AyD5AbT53LXCJCttP3lpbNEc3E5N2qRnQsiObqXqM&dib_tag=se&keywords=top%2Bhome%2Bdecor&qid=1783431830&refinements=p_n_condition-type%3A6358196011&rnid=256652011&sprefix=top%2Bhome%2Bdecor%2B%2Caps%2C572&sr=8-16&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=2572e9b21c98ad0b32b3a0e6ebe6fe66&language=en_US&ref_=as_li_ss_tl"
 }
+ ,
+{
+  "id": 98,
+  "category": "Home Decor",
+  "name": "Vanselia Ceramic Flower Vase Home Decor 7.4 Inch - Rustic Farmhouse Vintage Decorative Vase for Living Room, Dining Table, Bedroom & Office",
+  "price": 30,
+  "rating": 4.7,
+  "reviews": 1144,
+  "description": "The Vanselia Ceramic Flower Vase brings timeless farmhouse elegance and rustic vintage charm to any home. Measuring 6.3 x 6.3 x 7.4 inches, this handcrafted ceramic vase features a rich textured finish that complements farmhouse, rustic, country, modern, and vintage interiors. Its waterproof interior is perfect for displaying fresh flowers, dried arrangements, pampas grass, or artificial stems, while also serving as a beautiful standalone decorative centerpiece. Crafted from premium high-fired ceramic with a sturdy, thick construction and a non-slip base, it offers lasting durability and stability. Ideal for living rooms, dining tables, coffee tables, kitchens, bedrooms, bookshelves, offices, fireplaces, and entryways, this elegant vase also makes a thoughtful gift for housewarmings, birthdays, Mother's Day, Valentine's Day, anniversaries, and Christmas.",
+  "features": [
+    "Measures 6.3 x 6.3 x 7.4 inches, ideal for fresh and artificial flower arrangements",
+    "Handcrafted ceramic vase with a unique textured vintage finish",
+    "Premium high-fired ceramic construction for superior durability",
+    "Waterproof interior suitable for fresh flowers, dried flowers, pampas grass, and faux plants",
+    "Non-slip padded base protects furniture from scratches",
+    "Perfect for farmhouse, rustic, country, vintage, boho, and modern home decor",
+    "Beautiful centerpiece for dining tables, coffee tables, bookshelves, fireplaces, kitchens, bedrooms, and offices",
+    "Can be used as a standalone decorative accent without flowers",
+    "Elegant gift for housewarmings, birthdays, Mother's Day, Valentine's Day, anniversaries, and Christmas",
+    "Each handcrafted vase features slight texture variations, making every piece one of a kind"
+  ],
+  "materials": [
+    "High-Fired Ceramic"
+  ],
+ image: "https://github.com/Aadhi6374/image/blob/main/dinning%20table%20home%20decor.png?raw=true",
+ amazon: "https://www.amazon.com/Vanselia-Ceramic-Flower-Vase-Decor/dp/B0DYNNJWG1?crid=1SIL95ZN21H63&dib=eyJ2IjoiMSJ9.7B5K28l8EhdFvjhqqwnka2rS9HF7Tevaok8IDaBgv_0ol6ggRs0IRPFa6BeMWqoWPVp7hqP-1qkwhOGSebccEptghSZlxZe69Ft3Ep8bDNZz1EhSkSV6hzOc8PFfKthfl09bYB2GdPm3VjtokNbRDpf70a9O9f8Bxyyhpga8j3CN_h0fliZ9hzl8Y9UCK6SJ_5VCUa0izTJtlWQalqM-SAQQ4GXxrJOfC--9I62ejV_EMAVfjo5ObBF8UQR8Pw8JhtfDSND_hkLpbvj2je64Vci4ZzOlXoA5M0oVbOmXcbM.5wreNELYR8j-tUhrSY3viW4vqpk9x-EptxRZuDHNv64&dib_tag=se&keywords=top%2Bhome%2Bdecor&qid=1785924556&sprefix=top%2Bhome%2Bdecor%2B%2Caps%2C380&sr=8-94&xpid=CqcUACwAJ3i4e&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=ce318847676d522306289919f7b273fd&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+}
 
 ]
 
