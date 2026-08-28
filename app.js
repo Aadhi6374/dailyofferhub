@@ -3201,8 +3201,33 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
   "image": "https://github.com/Aadhi6374/image/blob/main/glasss%20vase.png?raw=true",
   "amazon": "https://www.amazon.com/CEMABT-Flowers%EF%BC%8CThickened-Centerpieces-Christmas-Thanksgiving/dp/B0C66J3F75?crid=EM14PI2DYNR7&dib=eyJ2IjoiMSJ9.HfmMo7KTCJCZ76_TdBqUVH4nNeGyodjdf_EhcmUGsR2x4dtF8lCV49TXBQ8RWPfIFsRCzcBGnfLUFLPcN4JxsPjfR8d4l3UisWHxPgKJJF6MhCtPZZ44O5nN2ifNNFPV.gUICTh65BH8jbfKbkehVEW6MLu1qSSgu2yiio0OBoYA&dib_tag=se&keywords=Vases&qid=1787811649&sprefix=home%2Bdecor%2Caps%2C420&sr=8-3&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=15d8c691a6cfb98b01bdc98ddf53729e&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+},
+{
+  "id": 99,
+  "category": "Home Decor",
+  "name": "Estelar Textiler Black Blackout Curtains for Bedroom 84 Inches Long, Room Darkening Grommet Window Thermal Insulated Curtains for Living Room, Light Blocking Gold Pattern Design Drapes, 52Wx84L, 2 Panels",
+  "price": 19.43,
+  "rating": 4.7,
+  "reviews": 6458,
+  "description": "The Estelar Textiler Black Blackout Curtains feature an elegant gold wheat and palm leaf pattern on a rich black background, adding a sophisticated and natural accent to bedroom and living room decor. Each package includes two 52W x 84L inch curtain panels with 8 silver anti-rust grommets per panel. Triple-weave construction helps block approximately 85-99% of sunlight and UV rays while providing thermal insulation, sound reduction, privacy, and energy efficiency. Made from soft, high-quality polyester with a silky feel, these room-darkening curtains are suitable for bedrooms, living rooms, dining rooms, kids rooms, and nurseries.",
+  "features": [
+    "Includes 2 blackout curtain panels, each measuring 52W x 84L inches",
+    "Elegant gold wheat and palm leaf botanical pattern on black fabric",
+    "Blocks approximately 85-99% of sunlight and UV rays",
+    "Triple-weave construction provides thermal insulation and room darkening",
+    "Helps reduce outside noise and improve privacy",
+    "Made from 100% high-quality polyester with a soft, silky feel",
+    "Each panel includes 8 silver anti-rust grommets with a 1.6-inch inner diameter",
+    "Suitable for bedrooms, living rooms, dining rooms, kids rooms, and nurseries",
+    "Black and gold design complements modern, elegant, botanical, and luxury home decor",
+    "Recommended care: hand wash in cold water, do not bleach, and iron at low temperature"
+  ],
+  "materials": [
+    "100% High-Quality Polyester"
+  ],
+  "image": "https://github.com/Aadhi6374/image/blob/main/curtainssss.png?raw=true",
+  "amazon": "https://www.amazon.com/Estelar-Textiler-Blackout-Curtains-Designed/dp/B094GVQWMT?crid=EM14PI2DYNR7&dib=eyJ2IjoiMSJ9.DwqEYfMISeq-wi0WVUV8SqtjP1woIFOyaydhFUxksMHCqfUgFePyBSrrSmGTcLt_w5DOHTZPgN7QMUJDMV8WN8MuhYaSDwdof_XkecPj1jg-XpsOMSqDo87TskxkEBmN.-FfZ-Yx3ih7q8Z9k7vQZtRg7etCgEshe895UPx9aKig&dib_tag=se&keywords=Curtains%2B%26%2Bdrapes&qid=1787889079&sprefix=home%2Bdecor%2Caps%2C420&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=47809eeb4b21d5722fddbe48eb96cd57&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
 }
-
 ]
 
 // ================= HELPER =================
