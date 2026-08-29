@@ -3254,7 +3254,32 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   "image": "https://github.com/Aadhi6374/image/blob/main/hello%20fall.png?raw=true",
   "amazon": "https://www.amazon.com/DOUSUI-Artificial-Pinecones-Farmhouse-Thanksgiving/dp/B0H3NGKB9T?crid=1UJU2FQNVMQR8&dib=eyJ2IjoiMSJ9.g7zCajKC0Mabt53ycWmc9JzPUgg1tS4-OGyaFltjXPA6CRDpzXcUNpJE06ig8AamLzu9LAVzTyvlSQdrLgEUv7aBxe_aWw-1H79o5TCXux7w_U4enOO5Qi1CcLyyR2EOSrmyIA1YJwbeuxpAbB7PBegF0kc7sveBkDjaQf4Di1UqbaeE4LPDDGh0SvXLAyHDJg2G9P1IxUZS_PTOVdCCDls6zzM7k8vOXkTmsIKpFp0PaWwheW-gMg7ZdZ94mWGUCh4GTuIWTzIwb6qZY5UlXWPiLcNZqJOvNpSExbyYy3g.9F8KlHT-F1VSu9BvdxllUXAk20_JP5oLTG-lxIc3N7Q&dib_tag=se&keywords=Fall%2Bdecor%2B%E2%86%92%2BAutumn%2Bwreaths%2B%E2%86%92%2BPumpkin%2Bdecor%2B%E2%86%92%2BCozy%2Bhome%2Bdecor%2B%E2%86%92%2BFall%2Btable%2Bdeco&nsdOptOutParam=true&qid=1787911034&sprefix=fall%2Bdecor%2Bautumn%2Bwreaths%2Bpumpkin%2Bdecor%2Bcozy%2Bhome%2Bdecor%2Bfall%2Btable%2Bdeco%2Caps%2C623&sr=8-31&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=6e37f9d6da788627adf4d0b0c55ed18b&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
  
- }
+ },{
+  "id": 101,
+  "category": "Home Decor",
+  "name": "Large Orange Flameless Pumpkin Candle, Fall Decor with LED Light, Remote Control & Timer for Autumn Home Decoration",
+  "price": 20.99,
+  "rating": 4.5,
+  "reviews": 198,
+  "description": "The large orange flameless pumpkin candle adds a cozy autumn glow to living rooms, dining tables, coffee tables, mantels, bedrooms, and seasonal displays. Designed with a realistic pumpkin shape and warm LED flame, this battery-operated decorative candle creates inviting fall ambiance without an open flame. The included remote control and timer make it convenient for everyday seasonal decorating, Thanksgiving gatherings, and Halloween displays.",
+  "features": [
+    "Large orange pumpkin-shaped design creates a warm seasonal accent",
+    "Realistic warm LED flame provides cozy candlelight without an open flame",
+    "Battery-operated flameless design is suitable for indoor seasonal decorating",
+    "Includes remote control for convenient operation",
+    "Timer function allows the candle to turn on and off automatically",
+    "Suitable for fall, autumn, Halloween, and Thanksgiving home decor",
+    "Works well on coffee tables, dining tables, mantels, shelves, entryways, and kitchen counters",
+    "Complements farmhouse, rustic, traditional, and modern fall decorating styles",
+    "Pumpkin-inspired design makes it an attractive autumn centerpiece",
+    "Ideal for creating cozy ambient lighting during fall evenings and seasonal gatherings"
+  ],
+  "materials": [
+    "Decorative Wax"
+  ],
+  "image": "https://github.com/Aadhi6374/image/blob/main/pumpkincandle.png?raw=true",
+  "amazon": "https://www.amazon.com/Fall-Decor-Decorations-Home-Thanksgiving/dp/B0F8QPC5N2?crid=1UJU2FQNVMQR8&dib=eyJ2IjoiMSJ9.g7zCajKC0Mabt53ycWmc9JzPUgg1tS4-OGyaFltjXPAFpe38E688KSiAKjRqvJvSeIu45RQuJat7Gg4QsTq_syiQrOc1Jg_T4rt9bYgjIClvKzUj9vxoz9H7edDcPJm8q7gz_QSSJFF9RcLNvHxJ5EEXWu5yOJnwF4NqsbSXX4lgWJCqzIfVr7l-QV35zb_ZqBIK-Tqm2I0yRx4LghhfK_tLAIyT5F9uHuNrjtOxRMvhvarUUD8cfnDQuyGRlOWq3j7ggVfW49pjchCXTbO07WyM05458fTY3dFmyqgxwAQ.2eNHXkhaIpbD5vpW7d6ru_QBi7GBHt7falWtQI_ZLcI&dib_tag=se&keywords=Fall%2Bdecor%2B%E2%86%92%2BAutumn%2Bwreaths%2B%E2%86%92%2BPumpkin%2Bdecor%2B%E2%86%92%2BCozy%2Bhome%2Bdecor%2B%E2%86%92%2BFall%2Btable%2Bdeco&nsdOptOutParam=true&qid=1787999533&sprefix=fall%2Bdecor%2Bautumn%2Bwreaths%2Bpumpkin%2Bdecor%2Bcozy%2Bhome%2Bdecor%2Bfall%2Btable%2Bdeco%2Caps%2C623&sr=8-31&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=3925c9726c9394aa3387ddee5609bf20&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+}
  ];
 
 // ================= HELPER =================
