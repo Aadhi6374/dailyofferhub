@@ -3227,8 +3227,34 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
   "image": "https://github.com/Aadhi6374/image/blob/main/curtainssss.png?raw=true",
   "amazon": "https://www.amazon.com/Estelar-Textiler-Blackout-Curtains-Designed/dp/B094GVQWMT?crid=EM14PI2DYNR7&dib=eyJ2IjoiMSJ9.DwqEYfMISeq-wi0WVUV8SqtjP1woIFOyaydhFUxksMHCqfUgFePyBSrrSmGTcLt_w5DOHTZPgN7QMUJDMV8WN8MuhYaSDwdof_XkecPj1jg-XpsOMSqDo87TskxkEBmN.-FfZ-Yx3ih7q8Z9k7vQZtRg7etCgEshe895UPx9aKig&dib_tag=se&keywords=Curtains%2B%26%2Bdrapes&qid=1787889079&sprefix=home%2Bdecor%2Caps%2C420&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=47809eeb4b21d5722fddbe48eb96cd57&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
-}
-]
+},
+ {
+  "id": 100,
+  "category": "Home Decor",
+  "name": "Hello Fall Squirrel Door Sign, Rustic Autumn Front Door Decor with Pumpkins, Acorns & Maple Leaves, Cute Fall Hanging Sign for Porch and Home",
+  "price": 8.99,
+  "rating": 4.8,
+  "reviews": 20,
+  "description": "The Hello Fall Squirrel Door Sign adds a cheerful and cozy autumn touch to your front door, porch, entryway, or indoor seasonal display. Featuring a cute red squirrel holding acorns, surrounded by pumpkins, colorful maple leaves, and a charming 'hello fall' message, this rustic seasonal hanging decoration creates an inviting fall atmosphere. Its lightweight wooden construction makes it easy to hang and suitable for decorating doors, walls, porches, entryways, and other areas of the home throughout the autumn season.",
+  "features": [
+    "Charming fall-themed design featuring a cute red squirrel holding acorns",
+    "Decorated with pumpkins, acorns, colorful autumn maple leaves, and a 'hello fall' message",
+    "Rustic wooden appearance complements farmhouse, country, and traditional fall decor",
+    "Suitable for front doors, covered porches, entryways, walls, and indoor seasonal displays",
+    "Lightweight hanging design makes installation simple and convenient",
+    "Adds a warm, welcoming autumn accent to the entrance of your home",
+    "Ideal for fall decorating from early autumn through Thanksgiving",
+    "Works well with pumpkins, fall wreaths, lanterns, mums, dried flowers, and other seasonal decorations",
+    "Cute squirrel design makes it suitable for family-friendly autumn decorating",
+    "Great seasonal accent or gift for homeowners who enjoy fall and autumn decorations"
+  ],
+  "materials": [
+    "Wood"
+  ],
+  "image": "https://github.com/Aadhi6374/image/blob/main/hello%20fall.png?raw=true",
+  "amazon": "https://www.amazon.com/DOUSUI-Artificial-Pinecones-Farmhouse-Thanksgiving/dp/B0H3NGKB9T?crid=1UJU2FQNVMQR8&dib=eyJ2IjoiMSJ9.g7zCajKC0Mabt53ycWmc9JzPUgg1tS4-OGyaFltjXPA6CRDpzXcUNpJE06ig8AamLzu9LAVzTyvlSQdrLgEUv7aBxe_aWw-1H79o5TCXux7w_U4enOO5Qi1CcLyyR2EOSrmyIA1YJwbeuxpAbB7PBegF0kc7sveBkDjaQf4Di1UqbaeE4LPDDGh0SvXLAyHDJg2G9P1IxUZS_PTOVdCCDls6zzM7k8vOXkTmsIKpFp0PaWwheW-gMg7ZdZ94mWGUCh4GTuIWTzIwb6qZY5UlXWPiLcNZqJOvNpSExbyYy3g.9F8KlHT-F1VSu9BvdxllUXAk20_JP5oLTG-lxIc3N7Q&dib_tag=se&keywords=Fall%2Bdecor%2B%E2%86%92%2BAutumn%2Bwreaths%2B%E2%86%92%2BPumpkin%2Bdecor%2B%E2%86%92%2BCozy%2Bhome%2Bdecor%2B%E2%86%92%2BFall%2Btable%2Bdeco&nsdOptOutParam=true&qid=1787911034&sprefix=fall%2Bdecor%2Bautumn%2Bwreaths%2Bpumpkin%2Bdecor%2Bcozy%2Bhome%2Bdecor%2Bfall%2Btable%2Bdeco%2Caps%2C623&sr=8-31&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=6e37f9d6da788627adf4d0b0c55ed18b&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+ 
+ }
 
 // ================= HELPER =================
 
