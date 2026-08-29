@@ -3255,6 +3255,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   "amazon": "https://www.amazon.com/DOUSUI-Artificial-Pinecones-Farmhouse-Thanksgiving/dp/B0H3NGKB9T?crid=1UJU2FQNVMQR8&dib=eyJ2IjoiMSJ9.g7zCajKC0Mabt53ycWmc9JzPUgg1tS4-OGyaFltjXPA6CRDpzXcUNpJE06ig8AamLzu9LAVzTyvlSQdrLgEUv7aBxe_aWw-1H79o5TCXux7w_U4enOO5Qi1CcLyyR2EOSrmyIA1YJwbeuxpAbB7PBegF0kc7sveBkDjaQf4Di1UqbaeE4LPDDGh0SvXLAyHDJg2G9P1IxUZS_PTOVdCCDls6zzM7k8vOXkTmsIKpFp0PaWwheW-gMg7ZdZ94mWGUCh4GTuIWTzIwb6qZY5UlXWPiLcNZqJOvNpSExbyYy3g.9F8KlHT-F1VSu9BvdxllUXAk20_JP5oLTG-lxIc3N7Q&dib_tag=se&keywords=Fall%2Bdecor%2B%E2%86%92%2BAutumn%2Bwreaths%2B%E2%86%92%2BPumpkin%2Bdecor%2B%E2%86%92%2BCozy%2Bhome%2Bdecor%2B%E2%86%92%2BFall%2Btable%2Bdeco&nsdOptOutParam=true&qid=1787911034&sprefix=fall%2Bdecor%2Bautumn%2Bwreaths%2Bpumpkin%2Bdecor%2Bcozy%2Bhome%2Bdecor%2Bfall%2Btable%2Bdeco%2Caps%2C623&sr=8-31&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=6e37f9d6da788627adf4d0b0c55ed18b&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
  
  }
+ ];
 
 // ================= HELPER =================
 
