@@ -3279,9 +3279,36 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
   "image": "https://github.com/Aadhi6374/image/blob/main/pumpkincandle.png?raw=true",
   "amazon": "https://www.amazon.com/Fall-Decor-Decorations-Home-Thanksgiving/dp/B0F8QPC5N2?crid=1UJU2FQNVMQR8&dib=eyJ2IjoiMSJ9.g7zCajKC0Mabt53ycWmc9JzPUgg1tS4-OGyaFltjXPAFpe38E688KSiAKjRqvJvSeIu45RQuJat7Gg4QsTq_syiQrOc1Jg_T4rt9bYgjIClvKzUj9vxoz9H7edDcPJm8q7gz_QSSJFF9RcLNvHxJ5EEXWu5yOJnwF4NqsbSXX4lgWJCqzIfVr7l-QV35zb_ZqBIK-Tqm2I0yRx4LghhfK_tLAIyT5F9uHuNrjtOxRMvhvarUUD8cfnDQuyGRlOWq3j7ggVfW49pjchCXTbO07WyM05458fTY3dFmyqgxwAQ.2eNHXkhaIpbD5vpW7d6ru_QBi7GBHt7falWtQI_ZLcI&dib_tag=se&keywords=Fall%2Bdecor%2B%E2%86%92%2BAutumn%2Bwreaths%2B%E2%86%92%2BPumpkin%2Bdecor%2B%E2%86%92%2BCozy%2Bhome%2Bdecor%2B%E2%86%92%2BFall%2Btable%2Bdeco&nsdOptOutParam=true&qid=1787999533&sprefix=fall%2Bdecor%2Bautumn%2Bwreaths%2Bpumpkin%2Bdecor%2Bcozy%2Bhome%2Bdecor%2Bfall%2Btable%2Bdeco%2Caps%2C623&sr=8-31&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=3925c9726c9394aa3387ddee5609bf20&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+},
+ {
+  "id": 102,
+  "category": "Home Decor",
+  "name": "3-Piece Wooden Pumpkin Fall Decor, Rustic Farmhouse Autumn Thanksgiving Decorations for Table Centerpiece, Tiered Tray, Mantel & Shelf",
+  "price": 8.99,
+  "rating": 4.7,
+  "reviews": 228,
+  "description": "The 3-piece wooden pumpkin decor set adds a cozy rustic touch to fall and autumn home decorating. Featuring orange, white, and green pumpkin designs with classic polka-dot patterns and natural raffia accents, these decorative pumpkins work beautifully as table centerpieces, tiered tray accents, mantel decorations, shelf displays, kitchen counter decor, and entryway accents. The farmhouse-inspired design is ideal for creating a warm seasonal atmosphere throughout the fall and Thanksgiving season.",
+  "features": [
+    "3-piece decorative wooden pumpkin set features orange, white, and green pumpkin designs",
+    "Rustic farmhouse style complements cozy autumn and traditional fall interiors",
+    "Polka-dot pumpkin patterns add a playful seasonal accent to home displays",
+    "Natural raffia stems and bows provide a handcrafted rustic appearance",
+    "Ideal for decorating tiered trays, mantels, shelves, tables, and countertops",
+    "Works well as a fall table centerpiece or seasonal accent display",
+    "Suitable for autumn, Thanksgiving, and general fall home decorating",
+    "Compact pumpkin designs are easy to incorporate into existing seasonal decorations",
+    "Complements farmhouse, rustic, traditional, cottage, and country-style decor",
+    "Can be displayed in living rooms, dining rooms, kitchens, entryways, offices, and bedrooms"
+  ],
+  "materials": [
+    "Wood",
+    "Raffia"
+  ],
+  "image": "https://github.com/Aadhi6374/image/blob/main/fallpumpkindecor.png?raw=true",
+ 
+  "amazon": "https://www.amazon.com/OLANRUN-Decorations-3-Piece-Pumpkin-Thanksgiving/dp/B0F8NTBYMJ?crid=1UJU2FQNVMQR8&dib=eyJ2IjoiMSJ9.g7zCajKC0Mabt53ycWmc9JzPUgg1tS4-OGyaFltjXPAFpe38E688KSiAKjRqvJvSeIu45RQuJat7Gg4QsTq_syiQrOc1Jg_T4rt9bYgjIClvKzUj9vxoz9H7edDcPJm8q7gz_QSSJFF9RcLNvHxJ5EEXWu5yOJnwF4NqsbSXX4lgWJCqzIfVr7l-QV35zb_ZqBIK-Tqm2I0yRx4LghhfK_tLAIyT5F9uHuNrjtOxRMvhvarUUD8cfnDQuyGRlOWq3j7ggVfW49pjchCXTbO07WyM05458fTY3dFmyqgxwAQ.2eNHXkhaIpbD5vpW7d6ru_QBi7GBHt7falWtQI_ZLcI&dib_tag=se&keywords=Fall%2Bdecor%2B%E2%86%92%2BAutumn%2Bwreaths%2B%E2%86%92%2BPumpkin%2Bdecor%2B%E2%86%92%2BCozy%2Bhome%2Bdecor%2B%E2%86%92%2BFall%2Btable%2Bdeco&nsdOptOutParam=true&qid=1787999533&sprefix=fall%2Bdecor%2Bautumn%2Bwreaths%2Bpumpkin%2Bdecor%2Bcozy%2Bhome%2Bdecor%2Bfall%2Btable%2Bdeco%2Caps%2C623&sr=8-17&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=30860860c87825b4121907b91de388e6&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
 }
- ];
-
+];
 // ================= HELPER =================
 
 function formatReviews(num){
