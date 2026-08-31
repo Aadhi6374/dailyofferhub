@@ -3304,8 +3304,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
     "Wood",
     "Raffia"
   ],
-  "image": "https://github.com/Aadhi6374/image/blob/main/fallpumpkindecor.png?raw=true",
- 
+  "image": "https://github.com/Aadhi6374/image/blob/main/fallpumpkin.png?raw=true",
   "amazon": "https://www.amazon.com/OLANRUN-Decorations-3-Piece-Pumpkin-Thanksgiving/dp/B0F8NTBYMJ?crid=1UJU2FQNVMQR8&dib=eyJ2IjoiMSJ9.g7zCajKC0Mabt53ycWmc9JzPUgg1tS4-OGyaFltjXPAFpe38E688KSiAKjRqvJvSeIu45RQuJat7Gg4QsTq_syiQrOc1Jg_T4rt9bYgjIClvKzUj9vxoz9H7edDcPJm8q7gz_QSSJFF9RcLNvHxJ5EEXWu5yOJnwF4NqsbSXX4lgWJCqzIfVr7l-QV35zb_ZqBIK-Tqm2I0yRx4LghhfK_tLAIyT5F9uHuNrjtOxRMvhvarUUD8cfnDQuyGRlOWq3j7ggVfW49pjchCXTbO07WyM05458fTY3dFmyqgxwAQ.2eNHXkhaIpbD5vpW7d6ru_QBi7GBHt7falWtQI_ZLcI&dib_tag=se&keywords=Fall%2Bdecor%2B%E2%86%92%2BAutumn%2Bwreaths%2B%E2%86%92%2BPumpkin%2Bdecor%2B%E2%86%92%2BCozy%2Bhome%2Bdecor%2B%E2%86%92%2BFall%2Btable%2Bdeco&nsdOptOutParam=true&qid=1787999533&sprefix=fall%2Bdecor%2Bautumn%2Bwreaths%2Bpumpkin%2Bdecor%2Bcozy%2Bhome%2Bdecor%2Bfall%2Btable%2Bdeco%2Caps%2C623&sr=8-17&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=30860860c87825b4121907b91de388e6&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
 }
 ];
