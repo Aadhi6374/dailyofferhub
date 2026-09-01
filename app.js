@@ -3334,7 +3334,7 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
   "image": "https://github.com/Aadhi6374/image/blob/main/hangingfallpumpkin.png?raw=true",
   "amazon": "https://www.amazon.com/DASTOLL-Stained-Glass-Window-Hanging/dp/B0FJKRKG1R?crid=1UJU2FQNVMQR8&dib=eyJ2IjoiMSJ9.32sONuUs9Ag1HoyTxVMzWwKXw0hn_1vrYtNg5j8qg1KTB-Jbjrb2nzKJQWf6CZSjo2jXPgHO1nHRtz0y9rlmCyXpXB3XfkfvCMi8hfZBsXvLe8f2Js_4n2KV25t4QfJpWmH0balv-yVyahaeIggnIgoStBl81OPrFW1WEOAOFjuVllAcj0gk8Jvj0M89LBfTLxx3jqyjzTimHVDiFgw_-UBWxiywST02FLvBx2Oxr_WL8cCi3Yq6dBAAF4BnUYVuh4rrORyrcuzNl9zBHF5qGHVINuQn1v6cp3-OmufMDTg.SDrGjjbJOhcFRsR7AB3UiF8yRxnLBh7LvVJzp9vKpss&dib_tag=se&keywords=Fall%2Bdecor%2B%E2%86%92%2BAutumn%2Bwreaths%2B%E2%86%92%2BPumpkin%2Bdecor%2B%E2%86%92%2BCozy%2Bhome%2Bdecor%2B%E2%86%92%2BFall%2Btable%2Bdeco&nsdOptOutParam=true&qid=1788228745&sprefix=fall%2Bdecor%2Bautumn%2Bwreaths%2Bpumpkin%2Bdecor%2Bcozy%2Bhome%2Bdecor%2Bfall%2Btable%2Bdeco%2Caps%2C623&sr=8-50-spons&xpid=0fOhf9dN-Vpld&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=457cd2b1a1b3d934ca7929b3717c54f6&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
-}
+},
  {
   "id": 104,
   "category": "Home Decor",
