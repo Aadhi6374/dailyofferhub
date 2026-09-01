@@ -3335,6 +3335,34 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   "image": "https://github.com/Aadhi6374/image/blob/main/hangingfallpumpkin.png?raw=true",
   "amazon": "https://www.amazon.com/DASTOLL-Stained-Glass-Window-Hanging/dp/B0FJKRKG1R?crid=1UJU2FQNVMQR8&dib=eyJ2IjoiMSJ9.32sONuUs9Ag1HoyTxVMzWwKXw0hn_1vrYtNg5j8qg1KTB-Jbjrb2nzKJQWf6CZSjo2jXPgHO1nHRtz0y9rlmCyXpXB3XfkfvCMi8hfZBsXvLe8f2Js_4n2KV25t4QfJpWmH0balv-yVyahaeIggnIgoStBl81OPrFW1WEOAOFjuVllAcj0gk8Jvj0M89LBfTLxx3jqyjzTimHVDiFgw_-UBWxiywST02FLvBx2Oxr_WL8cCi3Yq6dBAAF4BnUYVuh4rrORyrcuzNl9zBHF5qGHVINuQn1v6cp3-OmufMDTg.SDrGjjbJOhcFRsR7AB3UiF8yRxnLBh7LvVJzp9vKpss&dib_tag=se&keywords=Fall%2Bdecor%2B%E2%86%92%2BAutumn%2Bwreaths%2B%E2%86%92%2BPumpkin%2Bdecor%2B%E2%86%92%2BCozy%2Bhome%2Bdecor%2B%E2%86%92%2BFall%2Btable%2Bdeco&nsdOptOutParam=true&qid=1788228745&sprefix=fall%2Bdecor%2Bautumn%2Bwreaths%2Bpumpkin%2Bdecor%2Bcozy%2Bhome%2Bdecor%2Bfall%2Btable%2Bdeco%2Caps%2C623&sr=8-50-spons&xpid=0fOhf9dN-Vpld&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=457cd2b1a1b3d934ca7929b3717c54f6&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
 }
+ {
+  "id": 104,
+  "category": "Home Decor",
+  "name": "24 Inch Fall Harvest Wreath for Front Door, Autumn Farmhouse Decor, Sunflower Pumpkin Thanksgiving Wreath",
+  "price": 53.99,
+  "rating": 4.8,
+  "reviews": 15,
+  "description": "The 24-inch fall harvest wreath adds a warm and colorful seasonal touch to front doors, entryways, dining rooms, mantels and other home spaces. Featuring sunflowers, pumpkins, peonies, roses, chrysanthemums, berries and autumn greenery in rich red, orange, yellow and purple tones, this artificial floral wreath creates an inviting farmhouse-inspired fall display. Perfect for fall decorating, autumn home decor, Thanksgiving decorations and seasonal front door styling.",
+  "features": [
+    "24-inch round fall harvest wreath creates a bold seasonal focal point",
+    "Features sunflowers, pumpkins, peonies, roses, chrysanthemums, berries and autumn greenery",
+    "Rich red, orange, yellow, purple and green colors create a vibrant autumn look",
+    "Farmhouse-inspired design complements rustic and traditional home decor",
+    "Ideal for front doors, entryways, walls, mantels and covered porch areas",
+    "Can be used as a fall front door wreath or seasonal wall decoration",
+    "Works beautifully for autumn, harvest and Thanksgiving home decorating",
+    "Artificial flowers provide a long-lasting seasonal decorative accent",
+    "Large 24-inch design makes the wreath clearly visible from a distance",
+    "Suitable for creating a cozy and welcoming fall atmosphere in the home"
+  ],
+  "materials": [
+    "Artificial Flowers",
+    "Artificial Greenery",
+    "Grapevine-Style Base"
+  ],
+  "image": "https://github.com/Aadhi6374/image/blob/main/door%20flowers%20fall.png?raw=true",
+  "amazon": "https://www.amazon.com/Wreaths-Autumn-Farmhouse-Harvest-Wreath/dp/B0H4PM3WBS?crid=1UJU2FQNVMQR8&dib=eyJ2IjoiMSJ9.YRKVV2rvx4xP_PQDdE-jh3qBgDzCHVZblNdectCA7lNWwwe-lw3NlKi0iiZ7nupsBfcMuSReasPD2V08jvkqYGQeOtaFC2JpexaWrsU7OCnNyhdC5rBUAp8G_fSMeysJ9Hsnpr-xEoP2yWlGByKZR5kMmUQGpnlfVqMexOLSjQWPNEyH9jnAVC2ckPq1k_zg-jpTMEEUsQkBAVURarC1jeJHHxIhKgBImSNMln9rQ4sfA8gCv-iTxDtsLdKNCqST4cFS3eufty1gZ2cwR3Hr9NJEyyLm3iwagE5j-cNBJg0.TH8CbAUN7KsgHXv5pe8wJXSU2MyoP0-AasJB__Wbf6U&dib_tag=se&keywords=Fall+decor+%E2%86%92+Autumn+wreaths+%E2%86%92+Pumpkin+decor+%E2%86%92+Cozy+home+decor+%E2%86%92+Fall+table+deco&nsdOptOutParam=true&qid=1788272801&sprefix=fall+decor+autumn+wreaths+pumpkin+decor+cozy+home+decor+fall+table+deco%2Caps%2C623&sr=8-62-spons&xpid=0fOhf9dN-Vpld&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&linkCode=ll2&tag=aadhithyan637-20&linkId=b6d41ee2401f3f61bafd4fdbaf8be83c&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+}
 ];
 // ================= HELPER =================
 
