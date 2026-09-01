@@ -3306,6 +3306,34 @@ amazon: "https://www.amazon.com/amepay-Butterfly-Polyester-Insulated-Butterflies
   ],
   "image": "https://github.com/Aadhi6374/image/blob/main/fallpumpkin.png?raw=true",
   "amazon": "https://www.amazon.com/OLANRUN-Decorations-3-Piece-Pumpkin-Thanksgiving/dp/B0F8NTBYMJ?crid=1UJU2FQNVMQR8&dib=eyJ2IjoiMSJ9.g7zCajKC0Mabt53ycWmc9JzPUgg1tS4-OGyaFltjXPAFpe38E688KSiAKjRqvJvSeIu45RQuJat7Gg4QsTq_syiQrOc1Jg_T4rt9bYgjIClvKzUj9vxoz9H7edDcPJm8q7gz_QSSJFF9RcLNvHxJ5EEXWu5yOJnwF4NqsbSXX4lgWJCqzIfVr7l-QV35zb_ZqBIK-Tqm2I0yRx4LghhfK_tLAIyT5F9uHuNrjtOxRMvhvarUUD8cfnDQuyGRlOWq3j7ggVfW49pjchCXTbO07WyM05458fTY3dFmyqgxwAQ.2eNHXkhaIpbD5vpW7d6ru_QBi7GBHt7falWtQI_ZLcI&dib_tag=se&keywords=Fall%2Bdecor%2B%E2%86%92%2BAutumn%2Bwreaths%2B%E2%86%92%2BPumpkin%2Bdecor%2B%E2%86%92%2BCozy%2Bhome%2Bdecor%2B%E2%86%92%2BFall%2Btable%2Bdeco&nsdOptOutParam=true&qid=1787999533&sprefix=fall%2Bdecor%2Bautumn%2Bwreaths%2Bpumpkin%2Bdecor%2Bcozy%2Bhome%2Bdecor%2Bfall%2Btable%2Bdeco%2Caps%2C623&sr=8-17&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=30860860c87825b4121907b91de388e6&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+},
+ {
+  "id": 103,
+  "category": "Home Decor",
+  "name": "Halloween Orange Pumpkin Vine Leaves Stained Glass Window Hanging Suncatcher, Gothic Pumpkin Window Decor, 7.8 Inch",
+  "price": 19.37,
+  "rating": 4.8,
+  "reviews": 791,
+  "description": "The Halloween orange pumpkin stained glass window hanging adds a warm, festive and gothic touch to seasonal home decorating. Featuring three glowing orange pumpkins surrounded by curling vines, leaves and detailed stained-glass accents, this round suncatcher looks beautiful when displayed in a sunny window. It works well as Halloween window decor, fall home decor, seasonal wall art, porch decor and a decorative gift for family and friends.",
+  "features": [
+    "Round stained glass window hanging features three orange pumpkins with curling vines and leaves",
+    "Halloween-inspired design adds a festive gothic touch to seasonal home decor",
+    "Stained glass design creates a warm colorful appearance when sunlight passes through",
+    "Includes a hanging chain for easy display",
+    "Ideal for windows, doors, walls, porches and covered outdoor spaces",
+    "Works beautifully as Halloween home decor and fall seasonal decoration",
+    "Great for creating a cozy spooky atmosphere without taking up table or shelf space",
+    "Suitable for living rooms, bedrooms, kitchens, entryways and porches",
+    "Pumpkin design complements Halloween, autumn and fall decorating themes",
+    "Can also be used as a seasonal gift for family, friends and Halloween decor lovers"
+  ],
+  "materials": [
+    "Stained Glass",
+    "Metal",
+    "Hanging Chain"
+  ],
+  "image": "https://github.com/Aadhi6374/image/blob/main/hangingfallpumpkin.png?raw=true",
+  "amazon": "https://www.amazon.com/DASTOLL-Stained-Glass-Window-Hanging/dp/B0FJKRKG1R?crid=1UJU2FQNVMQR8&dib=eyJ2IjoiMSJ9.32sONuUs9Ag1HoyTxVMzWwKXw0hn_1vrYtNg5j8qg1KTB-Jbjrb2nzKJQWf6CZSjo2jXPgHO1nHRtz0y9rlmCyXpXB3XfkfvCMi8hfZBsXvLe8f2Js_4n2KV25t4QfJpWmH0balv-yVyahaeIggnIgoStBl81OPrFW1WEOAOFjuVllAcj0gk8Jvj0M89LBfTLxx3jqyjzTimHVDiFgw_-UBWxiywST02FLvBx2Oxr_WL8cCi3Yq6dBAAF4BnUYVuh4rrORyrcuzNl9zBHF5qGHVINuQn1v6cp3-OmufMDTg.SDrGjjbJOhcFRsR7AB3UiF8yRxnLBh7LvVJzp9vKpss&dib_tag=se&keywords=Fall%2Bdecor%2B%E2%86%92%2BAutumn%2Bwreaths%2B%E2%86%92%2BPumpkin%2Bdecor%2B%E2%86%92%2BCozy%2Bhome%2Bdecor%2B%E2%86%92%2BFall%2Btable%2Bdeco&nsdOptOutParam=true&qid=1788228745&sprefix=fall%2Bdecor%2Bautumn%2Bwreaths%2Bpumpkin%2Bdecor%2Bcozy%2Bhome%2Bdecor%2Bfall%2Btable%2Bdeco%2Caps%2C623&sr=8-50-spons&xpid=0fOhf9dN-Vpld&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA&th=1&linkCode=ll2&tag=aadhithyan637-20&linkId=457cd2b1a1b3d934ca7929b3717c54f6&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
 }
 ];
 // ================= HELPER =================
